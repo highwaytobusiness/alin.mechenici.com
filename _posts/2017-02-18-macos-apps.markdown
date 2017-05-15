@@ -1,0 +1,245 @@
+---
+title: My macOS apps & workflows
+date: 2017-02-18 00:01:00 +02:00
+categories:
+- applications
+- workflows
+tags:
+- macos
+- apps
+layout: post
+---
+
+# My macOS apps & workflows
+
+![Appstore applications](https://raw.githubusercontent.com/alinmechenici/page/gh-pages/img/apps.png)
+
+## Photography
+
+**Affinity Photo** (my fav photo editor) [appstore](https://itunes.apple.com/app/affinity-photo/id824183456?l=en&mt=12) / [website](https://affinity.serif.com/en-gb/photo/)
+
+Polarr Photo Editor [appstore](https://itunes.apple.com/app/polarr-photo-editor/id1058273036?l=en&mt=12)  / [website](https://www.polarr.co/)
+
+Aurora HDR [appstore](https://itunes.apple.com/app/aurora-hdr/id1052074952?l=en&mt=12) / [website](https://aurorahdr.com/)
+
+Pixelmator [appstore](https://itunes.apple.com/app/pixelmator/id407963104?l=en&mt=12) / [website](http://www.pixelmator.com/mac/)
+
+## Design and multimedia
+
+Pixave2 [appstore](https://itunes.apple.com/app/pixave/id924891282?l=en&mt=12) / [website](http://www.littlehj.com/)
+
+**Affinity Designer** (my fav design app) [appstore](https://itunes.apple.com/app/affinity-designer/id824171161?l=en&mt=12) / [website](https://affinity.serif.com/en-us/)
+
+TouchDraw [appstore](https://itunes.apple.com/app/touchdraw/id548887176?l=en&mt=12) / [website](http://elevenworks.com/touchdraw/mac/)
+
+Logoist [appstore](https://itunes.apple.com/app/logoist-2/id905654078?l=en&mt=12) / [website](http://www.syniumsoftware.com/logoist)
+
+Graphic [appstore](https://itunes.apple.com/app/graphic/id404705039?l=en&mt=12)  / [website](https://graphic.com/mac/)
+
+Mischief - Sketch, create, explore [appstore](https://itunes.apple.com/app/mischief...-sketch-create/id928430260?l=en&mt=12) / [website](https://www.madewithmischief.com/)
+
+Geogebra 5 [appstore](https://itunes.apple.com/app/geogebra-5/id845142834?l=en&mt=12) / [website](https://www.geogebra.org/download)
+
+xDesign [appstore](https://itunes.apple.com/app/xdesign/id908509737?l=en&mt=12)
+
+Timeline 3D [appstore](https://itunes.apple.com/app/timeline-3d/id929188617?l=en&mt=12) / [website](https://www.beedocs.com/timeline3D/mac/)
+
+Elmedia Video Player [appstore](https://itunes.apple.com/app/elmedia-video-player/id1044549675?l=en&mt=12) / [website](http://mac.eltima.com/media-player.html)
+
+Explain Everything Player [appstore](https://itunes.apple.com/app/explain-everything-player/id548333668?l=en&mt=12) / [website](https://explaineverything.com/)
+
+Notability [appstore](https://itunes.apple.com/app/notability/id736189492?l=en&mt=12) / [website](http://gingerlabs.com/)
+
+MainStage [appstore](https://itunes.apple.com/app/mainstage-3/id634159523?l=en&mt=12) / [website](http://www.apple.com/lae/mainstage/)
+
+GarageBand [appstore](https://itunes.apple.com/app/garageband/id682658836?l=en&mt=12) / [website](http://www.apple.com/lae/mac/garageband/)
+
+iMovie [appstore](https://itunes.apple.com/app/imovie/id408981434?l=en&mt=12) / [website](http://www.apple.com/lae/imovie/)
+
+## Tools
+
+**Box sync** (my fav cloud) [website](https://www.box.com/resources/downloads)
+
+iStudiez Pro [appstore](https://itunes.apple.com/app/istudiez-pro/id402989379?l=en&mt=12) / [website](http://istudentpro.com/mac.php)
+
+Veertu Native Virtualization [appstore](https://itunes.apple.com/app/veertu-native-virtualization/id1024069033?l=en&mt=12) / [website](https://veertu.com/)
+
+Typeeto: remote full size bluetooth keyboard [appstore](https://itunes.apple.com/app/typeeto-remote-full-size-bluetooth/id970502923?l=en&mt=12)
+
+Duplicate Finder [appstore](https://itunes.apple.com/app/duplicate-finder-find-remove/id977640937?l=en&mt=12)
+
+Commander One PRO - FTP/SFTP client [appstore](https://itunes.apple.com/app/commander-one-pro-ftp-sftp/id1035237815?l=en&mt=12)
+
+Telephone [appstore](https://itunes.apple.com/app/telephone/id406825478?l=en&mt=12)
+
+Alfred [appstore](https://itunes.apple.com/app/alfred/id405843582?l=en&mt=12) / [website](https://www.alfredapp.com/)
+
+CloudClip Manager
+[appstore](https://itunes.apple.com/app/cloudclip-manager/id563362017?l=en&mt=12) / [website](http://www.thinkbitz.com/cloudclip/)
+
+Magnet [appstore](https://itunes.apple.com/app/magnet/id441258766?l=en&mt=12) /  [website](http://magnet.crowdcafe.com/)
+
+Duet [website](https://www.duetdisplay.com/)
+
+1Password [website](https://1password.com/)
+
+iScream [website](https://iscream.en.softonic.com/mac)
+
+QuadroSync [website](http://quadro.me/sync)
+
+Actions Server [website](http://getactionsapp.com/)
+
+Adium [website](https://adium.im/)
+
+Flux [website](https://justgetflux.com/)
+
+## Office
+
+**Remember the Milk** (my fav task client) [website](https://www.rememberthemilk.comrvices/mac/)
+
+**iThoughtsX** (my fav mindmaping app) [appstore](https://itunes.apple.com/app/ithoughtsx-mindmap/id720669838?l=en&mt=12) / [website](https://www.toketaware.com/ithoughtsx-faq/)
+
+**Evernote** (my fav notes client) [website](https://evernote.com/download/)
+
+MagicalPad: Notes, Mindmaps, Outlines and tasks [appstore](https://itunes.apple.com/app/magicalpad-notes-mind-maps/id864851418?l=en&mt=12) / [website](http://www.magicalpad.com/)
+
+Calca [website](http://www.calca.io)
+
+Libre Office [website](http://www.documentfoundation.org/download/)
+
+Quip [appstore](https://itunes.apple.com/app/quip-docs-chat-spreadsheets/id1003160018?l=en&mt=12) / [website](https://quip.com/blog/desktop)
+
+Write (markdown editor) [appstore](https://itunes.apple.com/app/write-note-taking-markdown/id848311469?l=en&mt=12) / [appstore](http://writeapp.net/mac/)
+
+Revisions for Dropbox [appstore](https://itunes.apple.com/app/revisions-for-dropbox/id819348619?l=en&mt=12) / [website](https://www.revisionsapp.com/)
+
+2Do [appstore](https://itunes.apple.com/app/2do/id477670270?l=en&mt=12) / [website](http://www.2doapp.com/mac)
+
+SG Project Pro 5  [appstore](https://itunes.apple.com/app/sg-project-pro-5/id826964482?l=en&mt=12) / [website](http://www.simplegeniussoftware.com/sg-project-pro-mac-os-x.html)
+
+Pages [appstore](https://itunes.apple.com/app/pages/id409201541?l=en&mt=12)
+
+Numbers [appstore](https://itunes.apple.com/app/numbers/id409203825?l=en&mt=12)
+
+Keynote [appstore](https://itunes.apple.com/app/keynote/id409183694?l=en&mt=12)
+
+## Preview
+
+Marked 2 (previewer & dif. formats exporter) [appstore](https://itunes.apple.com/app/marked-2/id890031187?l=en&mt=12) / [website](http://marked2app.com/)
+
+Deckset (previewer & pdf exporter)
+[appstore](https://itunes.apple.com/app/deckset-turn-your-notes-into/id847496013?l=en&mt=12) / [website](http://www.decksetapp.com/)
+
+## Communication
+
+**Telegram** (my fav chat) [appstore](https://itunes.apple.com/app/telegram/id747648890?l=en&mt=12) / [website](https://telegram.org/apps)
+
+CoBook [appstore](https://itunes.apple.com/app/cobook/id525225808?l=en&mt=12)
+
+Slack [appstore](https://itunes.apple.com/app/slack/id803453959?l=en&mt=12) / [website](https://slack.com/downloads/osx)
+
+Spark [website](https://sparkmailapp.com/)
+
+Skype [website](https://www.skype.com/en/)
+
+## Read
+
+**Margin Note Pro**  [appstore](https://itunes.apple.com/app/marginnote-pro-efficient-study/id1035238564?l=en&mt=12) / [website](https://marginnote.com/)
+
+Note: (best for epub, pdf & web articles. Export to evernote, mindmap & opml)
+
+**Newsflow** (great with feedly web sync) [appstore](https://itunes.apple.com/app/newsflow-the-no.1-news-ticker/id890805912?l=en&mt=12) / [website](http://rockysandstudio.com/index.html#index)
+
+Feedly  [appstore](https://itunes.apple.com/app/feedly.-read-more-know-more./id865500966?l=en&mt=12) / [website](http://feedly.com/apps.html)
+
+Kindle [appstore](https://itunes.apple.com/app/kindle/id405399194?l=en&mt=12)
+
+iBooks Author [appstore](https://itunes.apple.com/app/ibooks-author/id490152466?l=en&mt=12)
+
+Pocket [appstore](https://itunes.apple.com/app/pocket/id568494494?l=en&mt=12) / [website](https://getpocket.com/mac/?a=mac)
+
+## Code
+
+**Atom** [website](http://atom.io)
+
+VisualStudio Code [website](https://code.visualstudio.com/)
+
+SourceTree (Git client) [website](https://www.sourcetreeapp.com/)
+
+Cyberduck [website](https://cyberduck.io/?l=en)
+
+Postman [website](https://www.getpostman.com/)
+
+Dash3 - API docs and snippets [website](https://blog.kapeli.com/dash-3)
+
+Hyper (JS/HTML/CSS Terminal) [website](https://hyper.is/)
+
+SnippetsLab [appstore](https://itunes.apple.com/app/snippetslab/id1006087419?l=en&mt=12) / [website](https://www.renfei.org/snippets-lab/)
+
+Ninox (database app) [appstore](https://itunes.apple.com/app/ninox/id901110441?l=en&mt=12) / [website](https://ninoxdb.de/ninox/en/)
+
+Procoding [appstore](https://itunes.apple.com/app/procoding/id606876308?l=en&mt=12) / [website](http://procoding.audiocommander.de/)
+
+OS X Server [appstore](https://itunes.apple.com/app/os-x-server/id883878097?l=en&mt=12) / [website](http://www.apple.com/lae/osx/server/)
+
+Prototypr
+[appstore](https://itunes.apple.com/app/prototypr/id484583841?l=en&mt=12) / [website](http://principleformac.com/)
+
+DockPhone (answering iPhone calls from MKB) [appstore](https://itunes.apple.com/app/dockphone/id933855184?l=en&mt=12) / [website](http://www.weareyeah.com/DockPhone/)
+
+Xcode [appstore](https://itunes.apple.com/app/xcode/id497799835?l=en&mt=12) / [website](https://developer.apple.com/xcode/)
+
+Docker [website](https://www.docker.com/)
+
+WebDAVNav Server [appstore](https://itunes.apple.com/app/webdavnav-server/id747482894?l=en&mt=12) / [website](https://www.schimera.com/products/webdav-nav-server/)
+
+Pinegrow Web Designer [website](https://pinegrow.com/)
+
+Pixate Studio [website](http://www.pixate.com/getstarted/)
+
+System Designer [website](https://system-designer.readme.io/)
+
+Google Chrome [website](https://www.google.com/chrome/browser/desktop/index.html)
+
+The list is always open to new apps.
+
+# Web-development workflows
+
+* Koder Desktop app ([help](https://www.koding.com/docs/desktop-app))
+  docs:
+
+  * [local machine](https://www.koding.com/docs/kd) - [connect](https://www.koding.com/docs/connect-your-own-machine-to-koding)
+
+  * using with [github](https://www.koding.com/docs/using-github-in-stacks)
+
+  * [adding digitalocean stack](http://www.koding.com/docs/creating-a-digitalocean-stack)
+
+* Install [Homebrew](http://brew.sh/)
+
+  \`$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+* Install [Python](https://www.python.org/downloads/mac-osx/)
+
+  \`$ brew install python3
+
+* Install [Node.js](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+
+  \`$ brew install node
+
+* Install [MySql](http://dev.mysql.com/downloads/mysql/)
+
+# Web services
+
+* [digitalocean](https://www.digitalocean.com/) or (azure\](https://portal.azure.com/#dashboard/)
+
+* [serverpilot](https://serverpilot.io/)
+
+* [Cloud9](https://c9.io/) or [Kodio](https://www.koding.com)
+
+* github
+
+* gitlab ([gitlab - github integration](https://docs.gitlab.com/ee/integration/github.html))
+
+* [bitbucket](https://bitbucket.com) | [SourceTree](https://www.sourcetreeapp.com/)
+
+* [box](http://box.com) | [box sync](https://highwaybusiness.app.box.com/settings/sync)
