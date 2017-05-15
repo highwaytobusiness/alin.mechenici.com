@@ -3,8 +3,6 @@ title: iOS for webDev
 date: 2017-02-17 21:54:00 Z
 ---
 
-# Using iOS for web development. Why?
-
 I love the iPad pro 12' and I use it for personal and work related tasks. The good news is that its OS is already mature to for serious work and the application ecosystem is getting more powerful. Just as an example, because I have many apps installed, daily there are updates for about 10 apps. Keeping in mind that the iOS Appstore is not that rich as its counterpart for MacOS, choosing the right application can make all the difference. That's why, I decided to share with you my experience and workflows in this (what will became very soon a long) article. Saying this, I will try to give you a glance of what can you do to move on faster and maybe cheaper, by choosing only the ones that suits you best.
 
 This time I will describe the web development workflow and keeping for another occasion the workflows for project management or design.

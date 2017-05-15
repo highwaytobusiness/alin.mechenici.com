@@ -10,8 +10,6 @@ tags:
 layout: post
 ---
 
-# My macOS apps & workflows
-
 ![Appstore applications](https://raw.githubusercontent.com/alinmechenici/page/gh-pages/img/apps.png)
 
 ## Photography
