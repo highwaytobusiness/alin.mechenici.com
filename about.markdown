@@ -1,6 +1,7 @@
 ---
+layout: page
 title: About
-date: 2017-02-17 22:52:00 +01:00
+permalink: /about/
 ---
 
 [Citeste in <a href="http://alin.mechenici.ro/despre/">romana</a>.]
