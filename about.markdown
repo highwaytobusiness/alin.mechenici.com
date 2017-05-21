@@ -20,10 +20,10 @@ Read the CV <a href="http://alin.mechenici.com/cv.html">here</a>.
 - Currently looking for new challenges
 
 #### Courses
-IT [informal school](http://scoalainformala.ro) - taking a 6 months (starting in Oct 2016) full-stack web development course in the beautiful city of Cluj-Napoca.
+IT [informal school](http://scoalainformala.ro) - taking a 6 months full-stack web development course in the beautiful city of Cluj-Napoca.
 
 #### Hobbies
-- Drawing and design
+- Digital drawing and design
 - Reading history and science
 - Biking
 
