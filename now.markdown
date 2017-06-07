@@ -3,34 +3,47 @@ layout: page
 title: Now
 permalink: /now/
 ---
-## Now
 
-#### Business:
-- Co-organizing NASA SpaceAppsChallenge in Romania and [Sweden](http://www.navita.space)
-- Senior consultant & owner @ [Highway to Business](http://www.highway.business) - a consultancy startup, based in Mjardevi Science Park, Linkoping, Sweden
-- Currently looking for new challenges
+#### Business and career:
+
+- Currently looking for new challenges @now
+- Senior consultant & owner @ [Highway to Business](http://www.highway.business) - a consultancy startup, based in Mjardevi Science Park, Linkoping, Sweden 
+- Co-organizing NASA SpaceAppsChallenge in Romania and [Sweden](http://.48h.space) @done
 
 #### Courses
-IT [informal school](http://scoalainformala.ro) - taking a 6 months full-stack web development course in the beautiful city of Cluj-Napoca.
+* Getting started with Python [[Coursera](https://www.coursera.org/specializations/python)] (@now)
+* taking a 6 months full-stack web development  [course](http://scoalainformala.ro) in the beautiful city of Cluj-Napoca. Winning the 1st Prize [[pics](https://www.facebook.com/pg/scoalainformala/photos/?tab=album&album_id=1190280304417177)] (@done)
+
+#### Books I am reading (NOW and recently)
+- "Absolutely small" - Michael Fayer
+- "Front-end handbook" - Cody Lindley
+- "Grokking Algorithms" - Adita Y. Bhargava
+- "A short history of nearly everything" - Bill Bryson
+- "Dacia - Land of Transilvania" - Ion Grumeza
+
 
 #### Hobbies
 - Digital drawing and design
-- Reading history and science
+- photo and audio editing
+- daily forest walkings
+- photo shooting
 - Biking
 
 #### Tools I am Using:
 
 - Bamboo Spark
-- iPad Pro 12' (November 23 - I just cracked the screen)
+- iPad Pro 12'
 - Mackbook Air with macOS. Using Ubuntu and Debian based Remix from an USB stick
 - Blackberry Classic and iPhone
-- Raspberry pi with Remix OS
+- Raspberry pi 
 - Sonic Port VX microphone
 - PocketReader
 - Nikon 5100
 
 #### Software
-- [macOS apps](http://alin.space/posts/macos-apps/)
-- [iOS apps (for web development)](http://alin.space/posts/webdevelopment-on-ios/)
+- [macOS apps](http://alin.mechenici.com/posts/macos-apps/)
+- [iOS apps for web development](http://alin.mechenici.com/posts/webdevelopment-on-ios/)
+- [iOS apps for design](http://alin.mechenici.com/affinity-for-ios/)
 
-* Idea ([nownownow.com](http://nownownow.com))!
+### Note:
+* The idea for this page: [nownownow.com](http://nownownow.com)
