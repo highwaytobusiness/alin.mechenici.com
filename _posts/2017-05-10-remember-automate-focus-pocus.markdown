@@ -17,7 +17,6 @@ Omnifocus is the professional iOS app that I bought thinking that someday I will
 
 Since I am using workflow app almost on a daily basis, I decided to use more omnifocus and to try to automate as much as possible. Let's see what I managed to do so far. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/alinmechenici/33727891914/" title="rtm / omnifocus - concept"><img src="https://c1.staticflickr.com/5/4165/33727891914_2339a24ace_z.jpg" width="640" height="479" alt="rtm / omnifocus - concept"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Siri integration
 Using Siri (via Reminders app) you can add tasks to both apps (RTM and Omnifocus) Reminder not included because it will be deleted automated after RTM task is added. 
