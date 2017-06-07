@@ -10,7 +10,7 @@ Alin is a self-made man with interests varying from art to science. He studied I
 
 Currently he is the founder of Highway to Business, a Swedish company based in Linkoping’s Science Park.
 
-Read the CV <a href="http://alin.mechenici.com/cv.html">here</a>.
+ <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>.
 
 ## Now
 
