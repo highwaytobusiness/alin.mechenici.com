@@ -21,6 +21,24 @@ permalink: /now/
 - "A short history of nearly everything" - Bill Bryson
 - "Dacia - Land of Transilvania" - Ion Grumeza
 
+#### Podcasts
+- "StarTalk Radio" 
+- "Hiden Universe HD"
+- "P3 Historia"
+- "BBC: Space"
+- "NASA Cast: This weekend"
+- "Python Bytes"
+- "99% Invisible" 
+- "AppStories"
+- "Start Here: Web Development"
+
+#### Radios
+- Radio Guerrilla Bucharest
+- BBC World News
+- RockFm Romania
+- Classic FM (UK)
+- Bandit Rock (Stockholm)
+- P5 STHLM
 
 #### Hobbies
 - Digital drawing and design
