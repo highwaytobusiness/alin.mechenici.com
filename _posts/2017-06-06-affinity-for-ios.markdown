@@ -1,5 +1,5 @@
 ---
-title: Affinity Photo & Designer (soon) for iPad
+title: Affinity Photo (now) & Designer (soon) for iPad
 date: 2017-06-07 16:05:00 +03:00
 categories:
 - design
