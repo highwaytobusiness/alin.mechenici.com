@@ -16,11 +16,9 @@ After playing with Affinity Photo (by Serif Labs)  I realized I can delete plent
 
 Affinity Photo can be found here: [website](https://affinity.serif.com/en-gb/photo/ipad/). And I strongly recommend their [vimeo account](https://vimeo.com/macaffinity) for in depth video tutorials for the iPad version or [this resources](https://affinity.serif.com/forum/index.php?/topic/10119-official-affinity-photo-desktop-video-tutorials-200/) for the desktop version.
 
-I expect that this fall my design workflow is about to be changed a lot. Procreacte is preparing a 'very special release' (as they wrote in today's mini app update) and [Omnigraffle 3](https://www.omnigroup.com/omnigraffle/preview) is in beta (I am testing it) and Autodesk's '[Graphic](https://graphic.com/ipad/)' is also preparing a new serious update.
+I expect that this fall my design workflow is about to be changed a lot. [Procreacte](http://procreate.art/) is preparing a 'very special release' (as they wrote in today's mini update) and [Omnigraffle 3](https://www.omnigroup.com/omnigraffle/preview) is in beta (I am testing it) and Autodesk's '[Graphic](https://graphic.com/ipad/)' is also preparing a new serious update (I know from my sources). [Concepts](https://concepts.tophatch.com/) is constantly coming with new features but unfortunately,  one app I like very much for UX-UI and prototyping - [Protosketch](http://protosketch.io/) - is moving very slow... maybe too slow. I would probably say the same thing about [Grafio3](https://itunes.apple.com/us/app/grafio-3-diagrams-ideas/id382418196?mt=8). 
 
 ![my iPad second screen](/images/designtab.png)
-
-## Resourses
 
 
 
