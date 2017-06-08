@@ -16,6 +16,6 @@ layout: post
 
 What is really cool about Lora is that you can build (no license needed) your own private sensors based network at very low prices for IoT. 
 
-I am interested in this technology and I am about to do something cool. I just started to create a list of  examples of projects that are using LoraWan. Please feel free to contribute on [github](https://github.com/alinmechenici/LoRa-projects) or by sending me an <a href="mailto:alin@mechenici.ro">email</a>.
+I am interested in this technology and I am about to do something with it. I just start creating a list of projects examples that are using LoraWan. Please feel free to contribute on [github](https://github.com/alinmechenici/LoRa-projects) or by sending me an <a href="mailto:alin@mechenici.ro">email</a>.
 
 And keep an eye (a.k.a bookmark) on this page <a href="http://lorahub.se"> lorahub.se</a> (a friend's project). For more details, the website will face a redesign soon and of course will have new content. If you can't wait to hear more, send me an email and I will forward it to Kim. 
