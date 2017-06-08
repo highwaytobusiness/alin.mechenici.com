@@ -1,0 +1,22 @@
+---
+title: LoraWan and LoraHub
+date: 2017-06-08 22:03
+categories:
+- lorawan
+- technologies
+tags:
+- lorawan
+- clubs
+layout: post
+---
+
+![what is Lora](/images/lorahub.svg)
+## What is LoraWan?
+"Low-Power Wide-Area Network (LPWAN) or Low-Power Network (LPN) is a type of wireless telecommunication wide area network designed to allow long range communications at a low bit rate among things (connected objects), such as sensors operated on a battery." - Source [wikipedia](https://en.m.wikipedia.org/wiki/LPWAN)
+
+What is really cool about Lora is that you can build (no license needed) your own private sensors based network at very low prices for IoT. 
+
+I am interested in this technology and I am about to do something cool. I just started to create a list of  examples of projects that are using LoraWan. Please feel free to contribute on github or by sending me an <a href="mailto:alin@mechenici.ro">email</a>.
+
+And keep an eye (a.k.a bookmark) on this page lorahub.se (a friends project). For more details, the website will face a redesign soon and of course will have new content. If you can't wait to hear more, send me an email and I will forward it to Kim. 
+
