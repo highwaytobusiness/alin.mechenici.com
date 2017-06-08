@@ -4,6 +4,8 @@ title: Now
 permalink: /now/
 ---
 
+What I am doing 'NOW' (or recently):
+
 #### Business and career:
 
 - Currently looking for new challenges @now
