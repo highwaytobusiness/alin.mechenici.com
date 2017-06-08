@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Citeste in <a href="http://alin.mechenici.ro/despre/">romana</a>.]
+<!-- [Citeste in <a href="http://alin.mechenici.ro/despre/">romana</a>.] 
+-->
+Hi, 
 
-Alin is a self-made man with interests varying from art to science. He studied Industrial Robots and ePR and founded several organizations in the last 10 years.
+I am Alin Mechenici, a Romanian guy living in Sweden.
+
+I have interests varying from art to science. I am studied Industrial Robots and ePR and founded several organizations in the last 10 years.
 
 Currently he is the founder of Highway to Business, a Swedish company based in Linkoping’s Science Park.
 

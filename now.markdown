@@ -33,6 +33,7 @@ What I am doing 'NOW' (or recently):
 - "99% Invisible" 
 - "AppStories"
 - "Start Here: Web Development"
+- "JavaScript Air"
 
 #### Radios
 - Radio Guerrilla Bucharest
