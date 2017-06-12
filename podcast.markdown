@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Podcast
+permalink: /podcast/
 ---
 
 ![On the Highway - with @alinmechenici](images/onthehighway.jpg) 
