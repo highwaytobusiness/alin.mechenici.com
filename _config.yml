@@ -34,20 +34,20 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: alinmechenici
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 92364351
 
 # Your website URL (e.g. http://highwaytobusiness.github.io/alin.mechenici.com or http://alin.mechenici.com)
 # Used for Sitemap.xml and your RSS feed
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
+# (http://highwaytobusiness.github.io/alin.mechenici.com)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://highwaytobusiness.github.io/alin.mechenici.com"
 
 #
 # !! You don't need to change any of the configuration flags below !!
