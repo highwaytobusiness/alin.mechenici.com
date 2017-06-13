@@ -11,8 +11,10 @@ Hi,
 I am a guy with <a href="http://alin.mechenici.com/now">interests</a> varying from art and history to science and leadership. My focus now is **web-development** and **UX-UI design**. 
 
 I studied "Industrial Robots" and "Communication & PR" and founded four organizations in the last 10 years. 
+
 <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
 <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
+
 
 I live in Sweden since '13 and I still love to travel for business and fun. So invite me to deliver a training/seminar. :)
 
