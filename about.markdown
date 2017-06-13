@@ -8,7 +8,7 @@ permalink: /about/
 -->
 Hi, 
 
-I am a guy with <a href="http://alin.mechenici.com/now">interests</a> varying from art and history to science and leadership. My focus is web-development and UX-UI design. 
+I am a guy with <a href="http://alin.mechenici.com/now">interests</a> varying from art and history to science and leadership. My focus is **web-development** and **UX-UI design**. 
 
 I am studied Industrial Robots and ePR and founded four organizations in the last 10 years. Now I live in Sweden and I still love to travel for business and fun. 
 
@@ -17,10 +17,6 @@ I am studied Industrial Robots and ePR and founded four organizations in the las
 
 
 Listen my <a href="http://alin.mechenici.com/podcast">podcast</a> and let's talk about entrepreneurship, technology, design, mobile prototyping and web development.
-
-
-Always a Romanian by heart. I write in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a> too.
-
 
 <a href="http://alin.mechenici.com/podcast"><img src="http://alin.mechenici.com/images/onthehighway.jpg" alt="On the Highway - with @alinmechenici" style="width: 130px;"/></a>
 
@@ -31,3 +27,5 @@ Social id: **@alinmechenici** (<a href="http://www.twitter.com/alinmechenici">tw
 
 ![News](images/highwaytobusinessinlinkoping.jpg)
 
+
+As a Romanian by heart, I write in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a> too.
