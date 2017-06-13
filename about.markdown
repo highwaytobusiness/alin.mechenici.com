@@ -31,4 +31,5 @@ Social id: **@alinmechenici** (<a href="http://www.twitter.com/alinmechenici">tw
 
 
 ![News](images/highwaytobusinessinlinkoping.jpg)
-PS: I write in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a> too.
+
+Read this page in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a>.
