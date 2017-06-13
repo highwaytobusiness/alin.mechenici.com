@@ -10,7 +10,7 @@ Hi,
 
 I am a guy with <a href="http://alin.mechenici.com/now">interests</a> varying from art and history to science and leadership. My focus now is **web-development** and **UX-UI design**. 
 
-I studied "Industrial Robots" and "Communication & PR" and founded four organizations in the last 10 years. I live in Sweden since '13 and I still love to travel for business and fun. So <a href="http://alin.mechenici.com/speaker">invite me </a>for a training/conference to your company. ;)
+I studied "Industrial Robots" and "Communication & PR" and founded four organizations in the last 10 years. I live in Sweden since '13 and I still love to travel for business and fun. So invite me for a training/conference to your company. :)
 
 <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
 <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
@@ -26,5 +26,10 @@ Social id: **@alinmechenici** (<a href="http://www.twitter.com/alinmechenici">tw
 
 
 ![News](images/highwaytobusinessinlinkoping.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d3xKU4dXqcI" frameborder="0" allowfullscreen></iframe>
+
+
 
 I write in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a> too.
