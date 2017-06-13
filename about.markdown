@@ -15,7 +15,9 @@ I have interests varying from art to science. I am studied Industrial Robots and
 Currently I am the founder of Highway to Business, a Swedish company based in Linkoping’s Science Park. 
 
     <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
+    
     <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
+    
     <a href="http://alin.mechenici.com/podcast"><img src="http://alin.mechenici.com/images/onthehighway.jpg" alt="On the Highway - with @alinmechenici" style="width: 130px;"/></a>
 
 
