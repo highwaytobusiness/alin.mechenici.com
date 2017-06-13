@@ -12,14 +12,15 @@ I am a guy with <a href="http://alin.mechenici.com/now">interests</a> varying fr
 
 I am studied Industrial Robots and ePR and founded four organizations in the last 10 years. Now I live in Sweden and I still love to travel for business and fun. 
 
-Always a Romanian by <3. I write in <a href="http://alin.mechenici.ro">Romanian</a> too.  
-
-
 <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
 <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
 
 
 Listen my <a href="http://alin.mechenici.com/podcast">podcast</a> and let's talk about entrepreneurship, technology, design, mobile prototyping and web development.
+
+
+Always a Romanian by heart. I write in <a href="http://alin.mechenici.ro"> ![Romanian](/images/ro.png)</a> too.
+
 
 <a href="http://alin.mechenici.com/podcast"><img src="http://alin.mechenici.com/images/onthehighway.jpg" alt="On the Highway - with @alinmechenici" style="width: 130px;"/></a>
 
