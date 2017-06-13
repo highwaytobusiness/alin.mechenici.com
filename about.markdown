@@ -30,4 +30,4 @@ Always feel free to **say hello** through <a href='mailto:alin@mechenici.ro'>ema
 
 ![News](images/highwaytobusinessinlinkoping.jpg)
 
-Read this page in <a href="http://alin.mechenici.ro/despre"> ![Romanian](/images/ro.png)</a>
+Read this page in <a href="http://alin.mechenici.ro/despre"> ![Romanian](/images/ro.png) </a>
