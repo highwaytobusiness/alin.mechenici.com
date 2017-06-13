@@ -14,10 +14,8 @@ I am studied Industrial Robots and ePR and founded four organizations in the las
 
 Always a Romanian by <3. I write in <a href="http://alin.mechenici.ro">Romanian</a> too.  
 
-<! -- Currently I am the founder of Highway to Business, a Swedish company based in Linkoping’s Science Park. -->
 
 <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
-    
 <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
 
 
