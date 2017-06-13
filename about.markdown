@@ -26,3 +26,8 @@ Listen "On the Highway" <a href="http://alin.mechenici.com/podcast">podcast</a> 
 <a href="http://alin.mechenici.com/podcast"><img src="http://alin.mechenici.com/images/onthehighway.jpg" alt="On the Highway - with @alinmechenici" style="width: 130px;"/></a>
 
 Always feel free to **say hello** through <a href='mailto:alin@mechenici.ro'>email</a> or any of the social links: <a href="http://www.twitter.com/alinmechenici">twitter</a>, <a href="http://www.facebook.com/alinmechenici"> facebook</a>, <a href="http://www.instagram.com/alinmechenici">instagram</a>, <a href="http://www.linkedin.com/in/alinmechenici">linkedin</a>, <a href="http://www.angel.co/@alinmechenici">angel.co</a>, <a href="http://www.about.me/alinmechenici">about.me</a>, <a href="https://github.com/alinmechenici"> github</a>, <a href="http://www.speakerdeck.com/alinmechenici">speakerdeck</a>, <a href="https://www.google.ro/search?q=alinmechenici&ie=UTF-8&oe=UTF-8&hl=en">etc</a>. I am a friendly person. 
+
+
+![News](images/highwaytobusinessinlinkoping.jpg)
+
+Read this page in <a href="http://alin.mechenici.ro/despre"> ![Romanian](/images/ro.png) </a>
