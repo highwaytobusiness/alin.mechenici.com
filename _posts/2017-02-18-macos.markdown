@@ -258,6 +258,13 @@ Install [Node.js](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 
 Install [MySql](http://dev.mysql.com/downloads/mysql/)
 
+Install [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) via [dmg](https://pqrs.org/latest/karabiner-elements-latest.dmg) and check the Karabiner database [rules](https://pqrs.org/osx/karabiner/complex_modifications/)
+
+- Emacs [keymaps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Femacs_key_bindings.json)
+
+- Pheonix [keymaps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiospampinato%2Fphoenix%2Fmaster%2Fconfig%2Fkarabiner.json)
+
+
 ## Emacs
 
 1. Install emacs:
@@ -282,6 +289,7 @@ Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wik
 
 [Window Manager for MacOS]
 Curently I am using this [configuration](https://github.com/fabiospampinato/phoenix). 
+[API](https://github.com/kasper/phoenix/blob/master/docs/API.md)
 
 
 
