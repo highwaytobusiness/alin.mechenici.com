@@ -94,7 +94,7 @@ Flux [website](https://justgetflux.com/)
 
 ## Office
 
-**Remember the Milk** (fav) [website](https://www.rememberthemilk.comrvices/mac/)
+**Remember the Milk** (fav) [website](https://www.rememberthemilk.comrvices/mac/) + [rtm emacs package](https://melpa.org/#/rtm)
 
 **iThoughtsX** (fav) [appstore](https://itunes.apple.com/app/ithoughtsx-mindmap/id720669838?l=en&mt=12) / [website](https://www.toketaware.com/ithoughtsx-faq/) + safari [extension](https://www.toketaware.com/safariextension)
 
@@ -264,6 +264,7 @@ Install [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) via [
 
 - Pheonix [keymaps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiospampinato%2Fphoenix%2Fmaster%2Fconfig%2Fkarabiner.json)
 
+- Opem [apps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Flaunch_apps.json)
 
 ## Emacs
 
@@ -289,7 +290,8 @@ Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wik
 
 [Window Manager for MacOS]
 Curently I am using this [configuration](https://github.com/fabiospampinato/phoenix). 
-[API](https://github.com/kasper/phoenix/blob/master/docs/API.md)
+- [API](https://github.com/kasper/phoenix/blob/master/docs/API.md) 
+- training ([youtube](https://www.youtube.com/watch?v=jyNo-Vo--kg))
 
 
 
