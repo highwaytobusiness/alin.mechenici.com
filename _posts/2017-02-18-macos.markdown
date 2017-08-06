@@ -57,7 +57,7 @@ iMovie [appstore](https://itunes.apple.com/app/imovie/id408981434?l=en&mt=12) / 
 
 ## Tools
 
-**Box sync** (my fav cloud) [website](https://www.box.com/resources/downloads)
+**Box sync** [website](https://www.box.com/resources/downloads)
 
 iStudiez Pro [appstore](https://itunes.apple.com/app/istudiez-pro/id402989379?l=en&mt=12) / [website](http://istudentpro.com/mac.php)
 
@@ -198,7 +198,7 @@ System Designer [website](https://system-designer.readme.io/)
 
 Google Chrome [website](https://www.google.com/chrome/browser/desktop/index.html)
 
-The list is always open to new apps.
+-------------------------
 
 # Web-development workflows
 
@@ -211,24 +211,12 @@ The list is always open to new apps.
 
   * [adding digitalocean stack](http://www.koding.com/docs/creating-a-digitalocean-stack)
 
-* Install [Homebrew](http://brew.sh/)
 
-  \`$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+---------------------------
 
-* Install [Python](https://www.python.org/downloads/mac-osx/)
+Using my macbook for **web development** (when I am not using debian).
 
-  \`$ brew install python3
-
-* Install [Node.js](http://blog.teamtreehouse.com/install-node-js-npm-mac)
-
-  \`$ brew install node
-
-* Install [MySql](http://dev.mysql.com/downloads/mysql/)
-
-
-Using mac for **web development** (when I am not using my debian laptop).
-
-## Prerequisite
+## Prerequisites
 
 Install [homebrew](https://brew.sh)
 
@@ -247,10 +235,18 @@ Install Pip:
         sudo easy_install pip
         
 Install [Python3](https://www.python.org/downloads/mac-osx/)
+
+        \`$ brew install python3
  
 Install [Virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
  
         sudo pip install virtualenv
+        
+Install [Node.js](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+  
+        \`$ brew install node
+
+Install [MySql](http://dev.mysql.com/downloads/mysql/)
 
 ## Emacs
 
@@ -264,13 +260,16 @@ Install [Virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
         
 I use the same configuration on all my devices (including the iPad via ssh & mosh).
 
-## [Zsh](http://ohmyz.sh) shell using wget
+## [Zsh](http://ohmyz.sh) 
+
+using wget:
         
         sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
  
 Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes) and [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
 ## [Pheonix](https://github.com/kasper/phoenix/) 
+
 [Window Manager for MacOS]
 Curently I am using this [configuration](https://github.com/fabiospampinato/phoenix). 
 
