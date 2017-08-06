@@ -169,6 +169,16 @@ Postman [website](https://www.getpostman.com/)
 
 Dash3 - API docs and snippets [website](https://blog.kapeli.com/dash-3)
 
+- open Dash3 in terminal:
+
+        open dash://
+     
+     Example:
+      
+        open dash://python3:{query} 
+
+- open Dash3 in emacs using [dash-at-point](https://github.com/stanaka/dash-at-point#readme) (melpa).
+
 Hyper (JS/HTML/CSS Terminal) [website](https://hyper.is/) (using **Zsh**)
 
 SnippetsLab [appstore](https://itunes.apple.com/app/snippetslab/id1006087419?l=en&mt=12) / [website](https://www.renfei.org/snippets-lab/)
