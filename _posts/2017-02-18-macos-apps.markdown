@@ -10,6 +10,37 @@ tags:
 layout: post
 ---
 
+
+## Emacs
+### 1. Install [homebrew](https://brew.sh)
+
+        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    
+Install wget:
+        
+        ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+        
+  run:
+        
+        brew install wget        
+
+### 2. Install emacs
+
+        brew install emacs --with-cocoa
+
+### Clone [Purcel](https://github.com/purcell/emacs.d)
+
+        git clone https://github.com/purcell/emacs.d.git ~/.emacs.d    
+
+## [Zsh](http://ohmyz.sh) shell using wget
+        
+        sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+ 
+Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes) and [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
+
+## [Pheonix](https://github.com/kasper/phoenix/) Window Manager 
+
+
 ![Appstore applications](https://raw.githubusercontent.com/alinmechenici/page/gh-pages/img/apps.png)
 
 ## Photography
@@ -241,3 +272,9 @@ The list is always open to new apps.
 * [bitbucket](https://bitbucket.com) | [SourceTree](https://www.sourcetreeapp.com/)
 
 * [box](http://box.com) | [box sync](https://highwaybusiness.app.box.com/settings/sync)
+
+
+# Resources:
+
+- Learn emacs [1](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org)
+
