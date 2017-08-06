@@ -10,9 +10,11 @@ tags:
 layout: post
 ---
 
+Using mac for **web development** (when I am not using my debian laptop).
 
-## Emacs
-### 1. Install [homebrew](https://brew.sh)
+## Prerequisite
+
+Install [homebrew](https://brew.sh)
 
         /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     
@@ -20,10 +22,23 @@ Install wget:
         
         ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
         
-  run:
-        
+ & run:
+  
         brew install wget        
 
+Install Pip: 
+
+        sudo easy_install pip
+        
+Install [Python3](https://www.python.org/downloads/mac-osx/)
+ 
+Install [Virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+ 
+        sudo pip install virtualenv
+        
+ 
+
+## Emacs
 ### 2. Install emacs
 
         brew install emacs --with-cocoa
@@ -39,6 +54,11 @@ Install wget:
 Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes) and [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
 ## [Pheonix](https://github.com/kasper/phoenix/) Window Manager 
+
+## [Amethyst](http://ianyh.com/amethyst/) Window Manager 
+
+----------------------------------------------------------
+
 
 
 ![Appstore applications](https://raw.githubusercontent.com/alinmechenici/page/gh-pages/img/apps.png)
@@ -189,19 +209,17 @@ Pocket [appstore](https://itunes.apple.com/app/pocket/id568494494?l=en&mt=12) / 
 
 ## Code
 
-**Atom** [website](http://atom.io)
+Atom [website](http://atom.io)& VisualStudio Code [website](https://code.visualstudio.com/) (using emacs instead)
 
-VisualStudio Code [website](https://code.visualstudio.com/)
+SourceTree (Git client) [website](https://www.sourcetreeapp.com/) (using **magit**/emacs)
 
-SourceTree (Git client) [website](https://www.sourcetreeapp.com/)
-
-Cyberduck [website](https://cyberduck.io/?l=en)
+Cyberduck [website](https://cyberduck.io/?l=en) (using **[tramp](https://melpa.org/#/anything-tramp)**/emacs)
 
 Postman [website](https://www.getpostman.com/)
 
 Dash3 - API docs and snippets [website](https://blog.kapeli.com/dash-3)
 
-Hyper (JS/HTML/CSS Terminal) [website](https://hyper.is/)
+Hyper (JS/HTML/CSS Terminal) [website](https://hyper.is/) (using **Zsh**)
 
 SnippetsLab [appstore](https://itunes.apple.com/app/snippetslab/id1006087419?l=en&mt=12) / [website](https://www.renfei.org/snippets-lab/)
 
