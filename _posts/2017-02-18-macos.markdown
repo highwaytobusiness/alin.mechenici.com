@@ -261,6 +261,8 @@ Install [Virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 2. Clone [Purcel](https://github.com/purcell/emacs.d)
 
         git clone https://github.com/purcell/emacs.d.git ~/.emacs.d    
+        
+I use the same configuration on all my devices (including the iPad via ssh & mosh).
 
 ## [Zsh](http://ohmyz.sh) shell using wget
         
@@ -268,9 +270,11 @@ Install [Virtualenvs](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
  
 Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes) and [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
-## [Pheonix](https://github.com/kasper/phoenix/) Window Manager 
+## [Pheonix](https://github.com/kasper/phoenix/) 
+[Window Manager for MacOS]
+Curently I am using this [configuration](https://github.com/fabiospampinato/phoenix). 
 
-## [Amethyst](http://ianyh.com/amethyst/) Window Manager 
+
 
 ----------------------------------------------------------
 
@@ -296,3 +300,6 @@ Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wik
 
 - Learn emacs [1](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org)
 
+# To do/test:
+
+-[Amethyst](http://ianyh.com/amethyst/) Window Manager 
