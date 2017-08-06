@@ -16,6 +16,8 @@ layout: post
 
 What is really cool about Lora is that you can build (no license needed) your own private sensors based network at very low prices for IoT. 
 
+![LoraClub](https://farm5.staticflickr.com/4394/36013043020_a1229999f5_b.jpg)
+
 I am interested in this technology and I am about to do something with it. I just started creating a list of projects examples that are using LoraWan. Please feel free to contribute on [github](https://github.com/alinmechenici/LoRa-projects) or by sending me an <a href="mailto:alin@mechenici.ro">email</a>.
 
-And keep an eye (a.k.a bookmark) on this page <a href="http://lorahub.se"> lorahub.se</a> (a friend's project). For more details, the website will face a redesign soon and of course will have new content. If you can't wait to hear more, send me an email and I will forward it to Kim. 
+And keep an eye (a.k.a bookmark) on this page <a href="http://lorahub.se"> lorahub.se</a> (a friend's project). For more details, the website will face a redesign soon and of course will have new content. If you can't wait to hear more, send me an email and I will forward it to Kim or read more [here](https://mjardevi.se/lyckad-natverkstraff-om-lora/) (in Swedish). 
