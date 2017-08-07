@@ -17,6 +17,8 @@ layout: post
 
 **Affinity Photo** (my fav photo editor) [appstore](https://itunes.apple.com/app/affinity-photo/id824183456?l=en&mt=12) / [website](https://affinity.serif.com/en-gb/photo/)
 
+[Designer](http://designer.io/)
+
 Polarr Photo Editor [appstore](https://itunes.apple.com/app/polarr-photo-editor/id1058273036?l=en&mt=12)  / [website](https://www.polarr.co/)
 
 Aurora HDR [appstore](https://itunes.apple.com/app/aurora-hdr/id1052074952?l=en&mt=12) / [website](https://aurorahdr.com/)
@@ -267,9 +269,9 @@ Install [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) via [
 
 - Pheonix [keymaps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiospampinato%2Fphoenix%2Fmaster%2Fconfig%2Fkarabiner.json)
 
-- Opem [apps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Flaunch_apps.json)
+- Open [apps](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Flaunch_apps.json)
 
-## Emacs
+## [Emacs](https://www.gnu.org/software/emacs/)
 
 1. Install emacs:
 
@@ -289,7 +291,6 @@ using wget:
  
 Don't forget to check the [themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes) and [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
-## [Pheonix](https://github.com/kasper/phoenix/) 
 
 ## [MPS player](https://github.com/mps-youtube/mps-youtube)
 
@@ -307,6 +308,7 @@ run
         
         mpsyt
         
+## [Pheonix](https://github.com/kasper/phoenix/) 
 
 [Window Manager for MacOS]
 Curently I am using this [configuration](https://github.com/fabiospampinato/phoenix). 
