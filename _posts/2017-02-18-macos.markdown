@@ -339,7 +339,13 @@ Curently I am using this [configuration](https://github.com/fabiospampinato/phoe
 
 # Resources:
 
-- Learn emacs [1](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org)
+## Learn emacs: 
+- [Reddit channel](https://www.reddit.com/r/emacs/)
+- [Emacs in 1 year github guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org)
+- [Awesome Emacs (github)](https://github.com/emacs-tw/awesome-emacs)
+- [Using Emacs Series (video)](http://cestlaz.github.io/stories/emacs/)
+- [Emacs Rocks (video)](http://emacsrocks.com)
+- [Interview with Purcell](http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/)
 
 # To do/test:
 
