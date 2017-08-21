@@ -15,9 +15,8 @@ A combination of potential blog posts, stackoverflow answers and experience. **C
 
 # WM
 ## Awesome
+	startx
 
-    startx
-    
 	install: apt-get install awesome
 
 	chose_theme = "arrow"
@@ -31,100 +30,112 @@ xev = keyboard pointer (x-event)
 
     install: apt-get install i3
 
-# Scripts
-## Keyboard scripts
-/bin/
-### alinshomepage
-### alindesigner
-### alin
-
 ## Terminal
-### things to try
-#### selenium
-apt-get install selenium
 
+#### selenium
+
+    apt-get install selenium
 
 ### search
-apt-cache search
+
+    apt-cache search
 
 ### SSH
-sysv-rc-conf
-/etc/init.d/ssh start
-/etc/init.d/sshd_config start/stop
+
+    sysv-rc-conf
+    
+    /etc/init.d/ssh start
+    
+    /etc/init.d/sshd_config start/stop
 
 ### Mounded
-lsbsk - what is mounted
-dmesg -c = clear
+
+    lsbsk - what is mounted
+
+    dmesg -c = clear
 
 
 ## Markdown
 
-
 ## OrgMode
 
 Add tasks in OrgMode
+
 * A-Return = *
+
 ** A- -> = sub-bullets
+
 * A-arows up/down = Move
+
 * TODO S- -> = To Do
+
 * DONE S- <- = Done
 
 ### Checkbox [1/2]
 
-   "["/"]" C-c, C-c adds number of items in checklist
+    "["/"]" C-c, C-c adds number of items in checklist
+    
   "["%"]" C-c, C-c adds procentage
-  - [ ] checkbox
-  - [X] checkbox checked (C-c, C-c)
-  - [ ] checkbox 3
+
+- [ ] checkbox
+
+- [X] checkbox checked (C-c, C-c)
+
+- [ ] checkbox 3
 
 ### Deadlines
 
 C-c C-d = Add deadlines
+
 * go home
-  DEADLINE: <2017-07-16 Sun>
+
+DEADLINE: <2017-07-16 Sun>
 
 ### Tags
+
 C-c C-c = Add tags
-* Wake up							       :home:
-* Lunch								       :work:
 
 ### Hides
-Cursor tab = hide
-S-tab = hide more
+
+    Cursor tab = hide
+    
+    S-tab = hide more
 
 ### Save
-C-x C-s = save
+
+    C-x C-s = save
 
 ### Agenda view
+    
 Start agenda view C-c [
+
 A-x org-agenda
+
 C-0 = back to original file
+
 q = exit screen
+
 * case sensitive ("m" for all or "M" for TODO) 
 
 ### Calculate working hours
 
 
 =============================================
-# geeqie: open pictures
-### open menu: C-h
-=============================================
-# Inscape
-
-=============================================
 # Delude
+
 in terminal (loop_delude)
 
 =============================================
 # MPV
 
 - ls music
+
 - find
 
-  > stream > playlist (1) 
+> stream > playlist (1) 
 
     cat playlist 1
-
+    
     find -type f (files) | grep -v pl[0-9]>playlist1
 
     mpv --playlist pl1
@@ -134,115 +145,187 @@ in terminal (loop_delude)
 # Emacs
 
 ## Intro
+    C = **Ctrl**
 
-C = **Ctrl**
-M = Meta key (alt/ mac key)
-RET - Return / Enter key
+    M = Meta key (alt/ mac key)
+
+    RET - Return / Enter key
 
 ## Terminal commands
 
-emacs -nw = new emacs window
-watch tree = watch tree in terminal for 3 min
+    emacs -nw = new emacs window
+
+    watch tree = watch tree in terminal for 3 min
 
 ## Tricks 
 
 C-x C-q (cont..)
+
 C-x C-s =  edit files and folders as a file
+
 A-/ auto-complete cycle
 ..............................................
 
 ## Dictionary
 
 C-h t = tutorial
+
 C-h i = info manual
+
 C-h k = (describe keyboard shortcut)
+
 C-h a = Search documentation
+
 C-h w <command> = shows shortcut
+
 C-l = clear screen
+
 C-d = delete-char
+
 C-q or C-v = insert quoted
+
 C-k = kill line
+
 M-d = kill word
+
 M-u = upcase-word
+
 M-l = downcase-word
+
 M-c = capitalize-word
+
 M-\ = delete orizontal space
+
 C-y = yank
+
 M-y = yank-pop
+
 xclip = mouse buffer
 
 ..............................................
 
 ## Important keys
+
 F10 = Compilation
+
 F3 = file
+
 F1 = python print script valio("{ " + str() + "}")
+
 F2 = open link in browser at cursor
+
 F3 = New
+
 F4 = Open cursor position in Zeal
+
 F5 = Timestamp
+
 F6 = Undefined
+
 F7 = Undefined
+
 F8 = Undefined
+
 F9 = Undefined
+
 F12 = Undefined
 
 PrtScr = prinscreen
+
 C-Page Up = sound +
+
 C-Page Down = sound -
 
 .............................................
 ## Compilation example
-### emacs compile python ~/py/working/src/app.py
+
+    emacs compile python ~/py/working/src/app.py
+    
     M-x compile (enter)
-    	python ~/py/working/src/app.py
+    
+	python ~/py/working/src/app.py
 
 .............................................
+
 ## Keyboard shortcuts
+
 ### Basics
 
 C-x C-f = Open file
+
 C-x C-s = Save a file
+
 C-x C-w = Save as
+
 C-x s = Save all
+
 C-x C-V = revert to file
+
 M-x = revert buffer
+
 C-x K = close window/buffer
+
 C-x C-c = Close a file
+
 M-j = focus
+
 M-j space = re-organize
+
 M-m = maximize
 
 ..............................................
 ### Text editing
+
 C-_ = undo
+
 C-Space = Begin selection
+
 C-g = cancel selection
+
 C-k = cut selection
+
 C-k = cut line
+
 C-y = paste
+
 C-x r s /# = copy selection to numbered clipboard
+
 C-x r i /# = paste from numbered clipboard
 Delete = delete
+
 C-d = Fwd delete
+
 M-d = delete word
+
 D-d = fwd delete word
+
 C-w = kill/cut
+
 C-y = yand/paste
+
 M-x = replace-string RET
 
 ..............................................
 ### Cursor management
 
 M-f/ M-b = Word forward / backward
+
 C-a/C-e = Jump to beginning / end of the line
+
 M+{/ M+} = Paragraph forward / backward
+
 C-v/ M-v = Page forward / backward
+
 M-</ M-> = Document forward / backward
+
 M-C-a/ M+C-e = C Function forward / backward
+
 C-arrow up - next paragraph up
+
 C-arrow down - next paragraph down
+
 C-home = move cursor up
+
 C-end = move cursor bottom
 
 ..............................................
@@ -250,12 +333,19 @@ C-end = move cursor bottom
 ### Search
 
 C-s = Incremental search
+
 C-r = Incremental search reverse
+
 M-C-s = regex incremental search
+
 M-C-r = regex incremental search reverse
+
 M+% = Interactive Search and Replace
+
 M+X = goto-line	Goto Line Number
+
 M-C+b (or esc C+B) = Previous Matching Bracket
+
 M-C+f (or esc Ctrl+F) = Next Matching Bracket
 
 
@@ -264,19 +354,28 @@ M-C+f (or esc Ctrl+F) = Next Matching Bracket
 ### Formating
 
 M-q = Re-flow Paragraph
+
 M-C+\ = Indent Selection
+
 M-u = Uppercase Word
+
 M-l = Lowercase Word
+
 M-c = Capitalize Word
+
 C-x, C-u = Uppercase Selection
+
 C-x, C-l = Lowercase Selection
+
 C-x,C-+/- = text size
 
 ..............................................
 ### Macros
 
 C-x ( = start macro
+
 C-x ) = end macro
+
 C-x e = execute macro
     e = again
 
@@ -284,6 +383,7 @@ C-x e = execute macro
 ### Undefined
 
 C-' = Comment
+
 C-; = search
 
 ..............................................
@@ -291,52 +391,83 @@ C-; = search
 ### Buffer & window management
 
 C-x 2 = split orizontal
+
 C-x 3 = split vertical
+
 C-x o = other window
+
 C-x 0 = get rid of other window
+
 C-x 1 = get rid of other windows
+
 M-o = window re-arange
+
 C-x,k =	Close
+
 C-x, b = Next Window
+
 C-x, Ctrl+B = Choose Window
+
 C-x, 1 = Maximize
+
 C-x, 2 = Split Horizontal
+
 C-x, 3 = Split Vertical
+
 C-x, o = Switch Focus Between Windows
+
 M+` = Activate Menu Bar
 
 
 .............................................
+
 ### Navigation and search
 
 M-g M-g = go to line
     (holt alt and press "g" twice)
+
 A-g A-g = go to line
+
 C-s = interactive search
+
 C-r = interactive search backward
+
 M-> = end of buffer
+
 M-> = beginning of buffer
+
 M-x = occur RET find lines
 
 .............................................
 ### Move
 
 C-e - end of line
+
 C-a - beginning of line
+
 C- <- - one word left
+
 C- -> - one word right
+
 C-space, move with arrow = move text selected
+
 C-S, select with arrows = select text
+
 C-S 1,2,3,4,5,6,7,8,9 = move application to tag
 
 .............................................
 ### Cut-n-paste
 
 C-space
+
 Esc- <- = delete word
+
 C-d = delete character
+
 C-_ = undo
+
 C-k = delete until end of line
+
 C-y - yank from kill-ring
 
 ..............................................
@@ -348,187 +479,303 @@ C-y - yank from kill-ring
 ### Packages installed
 
 A-x / package-install
+
 A-x .. erc / join debian = irc
+
 A-x .. magit-mode = git
 
 ### Package mode enable
 
 
 ..............................................
-
-## Other emacs
+## Other emacs 
 
 * Settings:  ~/.emacs.d/init.el (initial-scratch-message)
+
 * Shift + left or right arrows to select a region
+
 * emacs Alt +W copy region into clipboard
+
 * emacs Ctrl+W cut  region into clipboard
+
 * emacs Ctrl+Y paste from clipboard into emacs terminal
+
 * Shift+Insert  paste from clipboard
+
 * Save buffer to file: C-x C-s
+
 * Search text: C-s
+
 * Search w/ regular expression: C-s-Alt
+
 * Exit emacs: C-x C-c
+
 * Buffer list: C-x C-b
+
 * Buffer switch: C-x b
+
 * Maximize S-M
+
 * Fullscreen S-F
+
 * Search C-x C-s
+
 * Focus S-j
+
 * Open C-x C-f
+
 * Open Emacs C-F5 (*soon)
+
 * Screen mngm S-Shift-Space
+
 * Undo C-Shift +
 
 =============================================
 
 
 ## VYM
-
 View your Mind
 
 ### Scope Heading Editor:
 
 - Ctrl+Shift+P: Superscript
+
 - Ctrl+Shift+B: Subscript
+
 - Ctrl+U: Underline
+
 - Ctrl+I: Italic
+
 - Ctrl+B: Bold
+
 - Alt+R: Richtext
+
 - Alt+I: Font hint
+
 - Ctrl+V: Paste
+
 - Ctrl+X: Cut
+
 - Ctrl+C: Copy
+
 - Ctrl+A: Select and copy all
+
 - Ctrl+Y: Redo
+
 - Ctrl+Z: Undo
+
 - Ctrl+P: Print
+
 - Alt+X: Export As(ASCII)
+
 - Ctrl+S: Export
+
 - Ctrl+O: Import
 
 ### Scope Main window:
 
 - F: Follow XLink
+
 - L: Use modifier to draw xLinks
+
 - K: Use modifier to color branches
+
 - J: Use modifier to color branches
+
 - Backspace: Previous slide
+
 - Space: Next slide
+
 - Shift+Left: Previous Map
+
 - Shift+Right: Next Map
+
 - Ctrl+H: History Window
+
 - Alt+S: Script editor
+
 - Shift+S: Slide editor
+
 - Q: Task editor
+
 - Ctrl+T: Tree editor
+
 - E: Heading editor
+
 - N: Note editor
+
 - .: Center on selection
+
 - ,: reset Zoom
+
 - R: Rotate rclockwise
+
 - Shift+R: Rotate counterclockwise
+
 - -: Zoom out
+
 - +: Zoom in
+
 - : Color subtree
+
 - : Color branch
+
 - Ctrl+K: Pick color
+
 - : Set Color
+
 - Shift+F: Find duplicate URLs
+
 - /: Find
+
 - Ctrl+F: Find
+
 - : Unselect all
+
 - Ctrl+I: Select next
+
 - Ctrl+O: Select previous
+
 - M: Move to target
+
 - G: Goto target
+
 - Shift+T: Toggle target
+
 - P: Property window
+
 - Shift+I: Add
+
 - T: Add timestamp
+
 - Shift+X: Remove children
-- Alt+X: Remove only branch and keep its children
-             : Sleep 4 weeks
-             : Sleep 2 weeks
-             : Sleep 7 days
-             : Sleep 5 days
-             : Sleep 3 days
-             : Sleep 2 days
-             : Sleep 1 day
-- Shift+Q: Sleep n days
-             : Reset sleep
+
 - W: Cycle task status
+
 - Shift+W: Toggle task
-  - H: Hide in exports
-             : Delete vym link
-             : Edit vym link
-             : Open all vym links in subtree
-             : Open linked map in background tab
-             : Open linked map
-             : Create URL to SUSE FATE tool
+
 - Ctrl+B: Get data from SUSE Bugzilla for subtree
+
 - Shift+B: Get data from SUSE Bugzilla
+
 - B: Create URL to SUSE Bugzilla
+
 - Alt+U: Use heading for URL
+
 - : Edit local URL
+
 - U: Edit URL
+
 - Shift+N: Extract URLs from note
   - : Open all URLs in subtree
   - Ctrl+U: Open all URLs in subtree (including scrolled branches)
-  - : Open URL in new tab
-  - Shift+U: Open URL
-  -Ctrl+0: Reset selection size
+
+- : Open URL in new tab
+
+- Shift+U: Open URL
+
+-Ctrl+0: Reset selection size
+
 - Ctrl+-: Shrink selection
+
 - Ctrl++: Grow selection
+
 - <: Collapse unselected levels
+
 - Ctrl+<: Collapse one level
+
 -  >: Expand one level
+
 -  S: Scroll branch
+
 -  Shift+O: Sort children backwards
+
 - O: Sort children
+
 - D: Detach
+
 - PgDown: Move down
+
 - PgUp: Move up
+
 - Ctrl+A: Add branch below
+
 - Ctrl+Ins: Add branch below
+
 - Shift+A: Add branch above
+
 - Shift+Ins: Add branch above
+
 - Alt+A: Add branch (insert)
+
 - A: Add branch as child
+
 - C: Add mapcenter
+
 - Del: Delete Selection
+
 - Ctrl+V: Paste
+
 - Ctrl+X: Cut
+
 - Ctrl+C: Copy
+
 - Ctrl+Y: Redo
+
 - Ctrl+Z: Undo
+
 - Ctrl+Q: Exit VYM
+
 - Ctrl+W: Close Map
+
 - Ctrl+P: Print
+
 - Alt+E: Repeat last export (-)
+
 - : Save
+
 - Alt+R: Restore last session
+
 - Ctrl+L: Open
+
 - Ctrl+Shift+N: Copy to new map
+
 - Ctrl+N: New map
 
 ### Scope Note Editor:
 
 - Ctrl+Shift+P: Superscript
+
 - Ctrl+Shift+B: Subscript
+
 - Ctrl+U: Underline
+
 - Ctrl+I: Italic
+
 - Ctrl+B: Bold
+
 - Alt+R: Richtext
+
 - Alt+I: Font hint
+
 - Ctrl+V: Paste
+
 - Ctrl+X: Cut
+
 - Ctrl+C: Copy
+
 - Ctrl+A: Select and copy all
+
 - Ctrl+Y: Redo
+
 - Ctrl+Z: Undo
+
 - Ctrl+P: Print
+
 - Alt+X: Export As(ASCII)
+
 - Ctrl+S: Export
+
 - Ctrl+O: Import
 
 
@@ -539,6 +786,13 @@ View your Mind
 #### make vectorial from pictures
 
 Open image (C-i) / (S+A+b) scans 2
+
+## Learning to do list
+
+
+### scrapy --help
+
+### scrot --help
 
 
 ===========================================
