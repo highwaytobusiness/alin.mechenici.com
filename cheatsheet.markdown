@@ -4,7 +4,7 @@ title: Cheatsheet
 permalink: /cheatsheet/
 ---
 
-A combination of potential blog posts, stackoverflow answers and experience.** Ctrl+F* to find. Inspired by [smalldata.tech](https://smalldata.tech/cheatsheets)
+A combination of potential blog posts, stackoverflow answers and experience. **Ctrl+F ** to find. Inspired by [smalldata.tech](https://smalldata.tech/cheatsheets)
 
 
 #### Cheatsheet
@@ -13,14 +13,11 @@ A combination of potential blog posts, stackoverflow answers and experience.** C
 # Intro
 
 
-## Working copy
-
-~/Documents/laboratory/automation/
-
 # WM
 ## Awesome
-	startx
 
+    startx
+    
 	install: apt-get install awesome
 
 	chose_theme = "arrow"
@@ -64,37 +61,47 @@ dmesg -c = clear
 
 
 ## OrgMode
+
 Add tasks in OrgMode
 * A-Return = *
 ** A- -> = sub-bullets
 * A-arows up/down = Move
 * TODO S- -> = To Do
 * DONE S- <- = Done
+
 ### Checkbox [1/2]
-  "["/"]" C-c, C-c adds number of items in checklist
+
+   "["/"]" C-c, C-c adds number of items in checklist
   "["%"]" C-c, C-c adds procentage
   - [ ] checkbox
   - [X] checkbox checked (C-c, C-c)
   - [ ] checkbox 3
+
 ### Deadlines
+
 C-c C-d = Add deadlines
 * go home
   DEADLINE: <2017-07-16 Sun>
+
 ### Tags
 C-c C-c = Add tags
 * Wake up							       :home:
 * Lunch								       :work:
+
 ### Hides
 Cursor tab = hide
 S-tab = hide more
+
 ### Save
 C-x C-s = save
+
 ### Agenda view
 Start agenda view C-c [
 A-x org-agenda
 C-0 = back to original file
 q = exit screen
 * case sensitive ("m" for all or "M" for TODO) 
+
 ### Calculate working hours
 
 
@@ -110,31 +117,40 @@ in terminal (loop_delude)
 
 =============================================
 # MPV
+
 - ls music
 - find
-> stream > playlist (1) 
-cat playlist 1
-find -type f (files) | grep -v pl[0-9]>playlist1
-mpv --playlist pl1
+
+  > stream > playlist (1) 
+
+    cat playlist 1
+
+    find -type f (files) | grep -v pl[0-9]>playlist1
+
+    mpv --playlist pl1
 
 
 =============================================
 # Emacs
 
 ## Intro
+
 C = **Ctrl**
 M = Meta key (alt/ mac key)
 RET - Return / Enter key
 
 ## Terminal commands
+
 emacs -nw = new emacs window
 watch tree = watch tree in terminal for 3 min
 
 ## Tricks 
+
 C-x C-q (cont..)
 C-x C-s =  edit files and folders as a file
 A-/ auto-complete cycle
 ..............................................
+
 ## Dictionary
 
 C-h t = tutorial
@@ -184,6 +200,7 @@ C-Page Down = sound -
 .............................................
 ## Keyboard shortcuts
 ### Basics
+
 C-x C-f = Open file
 C-x C-s = Save a file
 C-x C-w = Save as
@@ -229,7 +246,9 @@ C-home = move cursor up
 C-end = move cursor bottom
 
 ..............................................
+
 ### Search
+
 C-s = Incremental search
 C-r = Incremental search reverse
 M-C-s = regex incremental search
@@ -241,7 +260,9 @@ M-C+f (or esc Ctrl+F) = Next Matching Bracket
 
 
 ..............................................
+
 ### Formating
+
 M-q = Re-flow Paragraph
 M-C+\ = Indent Selection
 M-u = Uppercase Word
@@ -253,6 +274,7 @@ C-x,C-+/- = text size
 
 ..............................................
 ### Macros
+
 C-x ( = start macro
 C-x ) = end macro
 C-x e = execute macro
@@ -260,12 +282,14 @@ C-x e = execute macro
 
 ..............................................
 ### Undefined
+
 C-' = Comment
 C-; = search
 
 ..............................................
 
 ### Buffer & window management
+
 C-x 2 = split orizontal
 C-x 3 = split vertical
 C-x o = other window
@@ -284,6 +308,7 @@ M+` = Activate Menu Bar
 
 .............................................
 ### Navigation and search
+
 M-g M-g = go to line
     (holt alt and press "g" twice)
 A-g A-g = go to line
@@ -295,6 +320,7 @@ M-x = occur RET find lines
 
 .............................................
 ### Move
+
 C-e - end of line
 C-a - beginning of line
 C- <- - one word left
@@ -305,6 +331,7 @@ C-S 1,2,3,4,5,6,7,8,9 = move application to tag
 
 .............................................
 ### Cut-n-paste
+
 C-space
 Esc- <- = delete word
 C-d = delete character
@@ -317,7 +344,9 @@ C-y - yank from kill-ring
 (edit remotely)
 
 ## Package mode 
+
 ### Packages installed
+
 A-x / package-install
 A-x .. erc / join debian = irc
 A-x .. magit-mode = git
@@ -326,7 +355,9 @@ A-x .. magit-mode = git
 
 
 ..............................................
-## Other emacs 
+
+## Other emacs
+
 * Settings:  ~/.emacs.d/init.el (initial-scratch-message)
 * Shift + left or right arrows to select a region
 * emacs Alt +W copy region into clipboard
@@ -352,6 +383,7 @@ A-x .. magit-mode = git
 
 
 ## VYM
+
 View your Mind
 
 ### Scope Heading Editor:
@@ -501,45 +533,18 @@ View your Mind
 
 
 ## Want to learn
+
 ### Learn inskape
+
 #### make vectorial from pictures
-	Open image (C-i) / (S+A+b) scans 2
 
-## Learning to do list
-### Learn emacs
-- keyboard shortcuts
-- markdown mode
-- ~/.emacs/ file init!
-- :tag:
-- calculator
-- Eshell / term
-- simple markup
-- todo file
--- insert date F5
--- estimate time (effort)
--- scheduling
-- tables
-- footnotes (templates)
-- export
--- markdown
--- html
--- pdf
-- publishing
--- blogging
-- templates
--- template links
--- agendas templates
--- logs
-- archiving (when the files gets to big)
-- config
+Open image (C-i) / (S+A+b) scans 2
 
-### scrapy --help
-### scrot --help
 
 ===========================================
 
 
 Resources:
 
-- template []slides](https://github.com/highwaytobusiness/alin.mechenici.com/tree/gh-pages/slides)
+- template [slides](https://github.com/highwaytobusiness/alin.mechenici.com/tree/gh-pages/slides)
 
