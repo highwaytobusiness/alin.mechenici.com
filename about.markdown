@@ -15,6 +15,8 @@ I studied "Industrial Robots" and "Communication & PR" and founded four organiza
 <a href="http://alin.mechenici.com/cv.html">![](/images/cv2.svg)</a>
 <a href="http://alin.mechenici.com/now"><img src="http://gilbraum.com/images/now.gif?crc=4136472459" alt="Now" style="width: 130px;"/></a>
 
+Check my [cheatsheet](http://alin.mechenici.com/cheatsheet) page and my [playground](https://alinmechenici.github.io/playground/) repository.
+
 
 I live in Sweden since '13 and I still love to travel for business and fun. So invite me to deliver a training/seminar for your company. :)
 
