@@ -4,33 +4,39 @@ title: Cheatsheet
 permalink: /cheatsheet/
 ---
 
-A combination of potential blog posts, stackoverflow answers and experience. **Ctrl+F ** to find. Inspired by [smalldata.tech](https://smalldata.tech/cheatsheets)
+A combination of potential blog posts, stackoverflow answers and experience. ** Ctrl + F ** to find. Inspired by [smalldata.tech](https://smalldata.tech/cheatsheets)
 
 
-#### Cheatsheet
+#### Personal Cheatsheet
 
 
-# Intro
+# Window Managers
 
-
-# WM
 ## Awesome
-	startx
+
+    startx
 
 	install: apt-get install awesome
 
 	chose_theme = "arrow"
 
 	~/.config/awesome/rc.lua
-	awesome -k
+
+    awesome -k
 
 xev = keyboard pointer (x-event)
 
 ## i3
 
-    install: apt-get install i3
+    apt install i3
+
+My i3 repository [](/dotfile/i3)
+
 
 ## Terminal
+
+### Zsh
+
 
 #### selenium
 
@@ -43,9 +49,9 @@ xev = keyboard pointer (x-event)
 ### SSH
 
     sysv-rc-conf
-    
+
     /etc/init.d/ssh start
-    
+
     /etc/init.d/sshd_config start/stop
 
 ### Mounded
@@ -53,6 +59,27 @@ xev = keyboard pointer (x-event)
     lsbsk - what is mounted
 
     dmesg -c = clear
+
+## Mutt
+
+Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
+
+    set imap_user = "user"
+    set from = "user@icloud.com"
+    set smtp_url = "smtp://user@smtp.mail.me.com:587/"
+
+    set folder = "imaps://user@imap.mail.me.com/"
+    set spoolfile = "imaps://user@imap.mail.me.com/INBOX"
+    set postponed = "+Drafts"
+    set record = "+Sent Messages"
+
+    set imap_pipeline_depth=0
+
+    set header_cache = "~/.mutt/cache/headers"
+    set message_cachedir = "~/.mutt/cache/bodies"
+    set certificate_file = "~/.mutt/certificates"
+
+Mutt settings for gmail
 
 
 ## Markdown
@@ -74,7 +101,7 @@ Add tasks in OrgMode
 ### Checkbox [1/2]
 
     "["/"]" C-c, C-c adds number of items in checklist
-    
+
   "["%"]" C-c, C-c adds procentage
 
 - [ ] checkbox
@@ -98,7 +125,7 @@ C-c C-c = Add tags
 ### Hides
 
     Cursor tab = hide
-    
+
     S-tab = hide more
 
 ### Save
@@ -106,7 +133,7 @@ C-c C-c = Add tags
     C-x C-s = save
 
 ### Agenda view
-    
+
 Start agenda view C-c [
 
 A-x org-agenda
@@ -115,7 +142,7 @@ C-0 = back to original file
 
 q = exit screen
 
-* case sensitive ("m" for all or "M" for TODO) 
+* case sensitive ("m" for all or "M" for TODO)
 
 ### Calculate working hours
 
@@ -132,10 +159,10 @@ in terminal (loop_delude)
 
 - find
 
-> stream > playlist (1) 
+> stream > playlist (1)
 
     cat playlist 1
-    
+
     find -type f (files) | grep -v pl[0-9]>playlist1
 
     mpv --playlist pl1
@@ -145,6 +172,7 @@ in terminal (loop_delude)
 # Emacs
 
 ## Intro
+
     C = **Ctrl**
 
     M = Meta key (alt/ mac key)
@@ -157,7 +185,7 @@ in terminal (loop_delude)
 
     watch tree = watch tree in terminal for 3 min
 
-## Tricks 
+## Tricks
 
 C-x C-q (cont..)
 
@@ -471,6 +499,7 @@ C-k = delete until end of line
 C-y - yank from kill-ring
 
 ..............................................
+
 ## Tramp
 (edit remotely)
 
@@ -488,6 +517,7 @@ A-x .. magit-mode = git
 
 
 ..............................................
+
 ## Other emacs 
 
 * Settings:  ~/.emacs.d/init.el (initial-scratch-message)
@@ -529,6 +559,16 @@ A-x .. magit-mode = git
 * Screen mngm S-Shift-Space
 
 * Undo C-Shift +
+
+=============================================
+
+# Emacs config and other damons
+
+
+    ; start emacs in fullscreen mode
+    (add-hook 'emacs-startup-hook 'toggle-frame-maximized)
+
+
 
 =============================================
 
