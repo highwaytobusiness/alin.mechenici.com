@@ -32,8 +32,33 @@ xev = keyboard pointer (x-event)
 
 My i3 repository [](/dotfile/i3)
 
+Start compton 
+
+    exec compton
+    
+Always open thunar window manager when i3 starts
+    
+    exec_always thunar # open window manager
+ 
+Stop the terminal bell 
+ 
+    exec_always xset b off # bell sound off
+    
+Autoconnect to an external bluetooth keyboard
+    
+    exec bash /home/alin/bin/bluetoothkeyboard # start the external keyboard
+    
+Background file 
+    
+    exec_always feh --bg-scale /home/alin/Pictures/wallpaper/linuxstructure.png # background
+
 
 ## Terminal
+
+### Terminal bell
+Stop the terminal bell (sound) using i3 config file
+
+    exec_always xset b off # bell sound off
 
 ### Zsh
 
@@ -275,6 +300,86 @@ C-Page Down = sound -
 
 .............................................
 
+# Emacs config and other daemons
+
+## Theme and settings
+
+
+    ; setup theme
+    (load-theme 'misterioso) ; 'tango-dark
+
+
+    ; remove menu, tab and scroll
+    (menu-bar-mode -1)
+    (tool-bar-mode -1)
+    (scroll-bar-mode 0)
+
+    ;text increasing
+    (text-scale-adjust 1)
+
+
+    ; start emacs in fullscreen mode
+    (add-hook 'emacs-startup-hook 'toggle-frame-maximized)
+
+
+    ; open browser where the cursor is
+    (defun webbrowser-visit-thing-at-point()
+        (interactive)
+    (start-process "emacs-webbrowser-visit-thing-at-point-process" "*Messages*" "/home/rider/.emacs.d/x/webbrowserwrapper" (thing-at-point 'url)))
+    (global-set-key [f2] 'webbrowser-visit-thing-at-point)
+
+    ; use left, right arrows to visit another frame
+    (global-set-key (kbd "C-c <left>") 'previous-multiframe-window)
+    (global-set-key (kbd "C-c <right>") 'next-multiframe-window)
+
+
+## M-x RET alin_start
+
+
+    (defun alin_start()
+        (interactive)
+
+    ;(find-file "book.md")
+    (find-file "/home/user/.emacs.d/init.el")
+    (split-window-right)
+    (find-file "/home/alin/work/planning/TODO.md")
+    ;  (split-window-right)
+    ;  (split-filet "/home/alin/work/README.md")
+    (split-window-right)
+    (find-file "/home/alin/work/job.md")
+    (split-window-right)
+    (find-file "/home/alin/work/start.md")
+    (balance-windows))
+    ;(add-hook 'emacs-startup-hook 'alin_start)
+
+    ;(add-hook 'text-mode-hook 'auto-fill-mode)
+
+* change file path with your own
+
+## Dash-at-point (Zeal integration)
+
+    ;(global-set-key "bla" 'zeal-at-point)
+    (global-set-key [f1] 'zeal-at-point)
+    (global-linum-mode t)
+
+    ;; Use multiple docsets
+    ;(add-to-list 'zeal-at-point-mode-alist '(python-mode . ("python" "django")))
+
+
+## Neotree
+
+
+    (add-to-list 'load-path "~/.emacs.d/neotree")
+        (require 'neotree)
+    (global-set-key [f8] 'neotree-toggle)
+
+    (setq misterioso (if (display-graphic-p) 'icons 'arrow)) ; neo-theme
+
+
+=============================================
+
+
+
 ## Keyboard shortcuts
 
 ### Basics
@@ -500,25 +605,20 @@ C-y - yank from kill-ring
 
 ..............................................
 
-## Tramp
-(edit remotely)
-
-## Package mode 
+## Package mode
 
 ### Packages installed
 
-A-x / package-install
+M-x / package-install
 
-A-x .. erc / join debian = irc
+M-x .. erc / join debian = irc
 
-A-x .. magit-mode = git
-
-### Package mode enable
+M-x .. magit-mode = git
 
 
 ..............................................
 
-## Other emacs 
+## Other emacs shortcuts
 
 * Settings:  ~/.emacs.d/init.el (initial-scratch-message)
 
@@ -562,84 +662,7 @@ A-x .. magit-mode = git
 
 =============================================
 
-# Emacs config and other daemons
-
-## Theme and settings
-
-
-    ; setup theme
-    (load-theme 'misterioso) ; 'tango-dark
-
-
-    ; remove menu, tab and scroll
-    (menu-bar-mode -1)
-    (tool-bar-mode -1)
-    (scroll-bar-mode 0)
-
-    ;text increasing
-    (text-scale-adjust 1)
-
-
-    ; start emacs in fullscreen mode
-    (add-hook 'emacs-startup-hook 'toggle-frame-maximized)
-
-
-    ; open browser where the cursor is
-    (defun webbrowser-visit-thing-at-point()
-        (interactive)
-    (start-process "emacs-webbrowser-visit-thing-at-point-process" "*Messages*" "/home/rider/.emacs.d/x/webbrowserwrapper" (thing-at-point 'url)))
-    (global-set-key [f2] 'webbrowser-visit-thing-at-point)
-
-    ; use left, right arrows to visit another frame
-    (global-set-key (kbd "C-c <left>") 'previous-multiframe-window)
-    (global-set-key (kbd "C-c <right>") 'next-multiframe-window)
-
-
-## M-x RET alin_start
-
-
-    (defun alin_start()
-        (interactive)
-
-    ;(find-file "book.md")
-    (find-file "/home/user/.emacs.d/init.el")
-    (split-window-right)
-    (find-file "/home/alin/work/planning/TODO.md")
-    ;  (split-window-right)
-    ;  (split-filet "/home/alin/work/README.md")
-    (split-window-right)
-    (find-file "/home/alin/work/job.md")
-    (split-window-right)
-    (find-file "/home/alin/work/start.md")
-    (balance-windows))
-    ;(add-hook 'emacs-startup-hook 'alin_start)
-
-    ;(add-hook 'text-mode-hook 'auto-fill-mode)
-
-* change file path with your own
-
-## Dash-at-point (Zeal integration)
-
-    ;(global-set-key "bla" 'zeal-at-point)
-    (global-set-key [f1] 'zeal-at-point)
-    (global-linum-mode t)
-
-    ;; Use multiple docsets
-    ;(add-to-list 'zeal-at-point-mode-alist '(python-mode . ("python" "django")))
-
-
-## Neotree
-
-
-    (add-to-list 'load-path "~/.emacs.d/neotree")
-        (require 'neotree)
-    (global-set-key [f8] 'neotree-toggle)
-
-    (setq misterioso (if (display-graphic-p) 'icons 'arrow)) ; neo-theme
-
-
 =============================================
-
 
 ## VYM
 View your Mind
