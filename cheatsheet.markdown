@@ -30,42 +30,44 @@ xev = keyboard pointer (x-event)
 
     apt install i3
 
-My i3 repository [](/dotfile/i3)
+My i3 repository [soon](/dotfile/i3/)
 
-Start compton 
+Favorite font
+
+    font pango:System San Francisco Display 10
+
+Start compton
 
     exec compton
-    
+
 Always open thunar window manager when i3 starts
-    
+
     exec_always thunar # open window manager
- 
-Stop the terminal bell 
- 
-    exec_always xset b off # bell sound off
-    
-Autoconnect to an external bluetooth keyboard
-    
-    exec bash /home/alin/bin/bluetoothkeyboard # start the external keyboard
-    
-Background file 
-    
-    exec_always feh --bg-scale /home/alin/Pictures/wallpaper/linuxstructure.png # background
 
+Stop the terminal bell (can be placed in a script or in i3 config file)
 
-## Terminal
+    xset b off
 
-### Terminal bell
-Stop the terminal bell (sound) using i3 config file
+#### key bindings
 
-    exec_always xset b off # bell sound off
+Print key = printscreen
 
-### Zsh
+    bindsym Print exec bash /home/alin/bin/alinscreencapture
 
+S+Print = printscreen, open in a photo manipulation program, save.
 
-#### selenium
+    bindsym Shift+Print exec bash /home/alin/bin/alinscreencaptureandedit
 
-    apt-get install selenium
+Open a design app
+
+    bindsym $mod+Shift+d exec bash /home/alin/bin/designer
+
+Open telegram
+
+    bindsym $mod+Shift+t exec bash /home/alin/bin/telegram
+
+===============================================
+
 
 ### search
 
