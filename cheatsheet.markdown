@@ -171,20 +171,17 @@ q = exit screen
 
 * case sensitive ("m" for all or "M" for TODO)
 
-### Calculate working hours
 
 
-=============================================
-# Delude
+C-h t = tutorial
 
-in terminal (loop_delude)
 
 =============================================
 # MPV
 
-- ls music
+    - ls music
 
-- find
+    - find
 
 > stream > playlist (1)
 
@@ -196,17 +193,18 @@ in terminal (loop_delude)
 
 
 =============================================
+
 # Emacs
 
 ## Intro
 
-    C = **Ctrl**
+    C = Ctrl
 
     M = Meta key (alt/ mac key)
 
     RET - Return / Enter key
 
-## Terminal commands
+Useful terminal commands for working with emacs:
 
     emacs -nw = new emacs window
 
@@ -219,6 +217,7 @@ C-x C-q (cont..)
 C-x C-s =  edit files and folders as a file
 
 A-/ auto-complete cycle
+
 ..............................................
 
 ## Dictionary
@@ -265,7 +264,7 @@ F10 = Compilation
 
 F3 = file
 
-F1 = python print script valio("{ " + str() + "}")
+F1 = python print script print("{ " + str() + "}")
 
 F2 = open link in browser at cursor
 
@@ -277,9 +276,9 @@ F5 = Timestamp
 
 F6 = Undefined
 
-F7 = Undefined
+F7 = Mail mode
 
-F8 = Undefined
+F8 = Open Neotree
 
 F9 = Undefined
 
@@ -295,9 +294,9 @@ C-Page Down = sound -
 ## Compilation example
 
     emacs compile python ~/py/working/src/app.py
-    
+
     M-x compile (enter)
-    
+
 	python ~/py/working/src/app.py
 
 .............................................
@@ -305,7 +304,6 @@ C-Page Down = sound -
 # Emacs config and other daemons
 
 ## Theme and settings
-
 
     ; setup theme
     (load-theme 'misterioso) ; 'tango-dark
@@ -335,7 +333,9 @@ C-Page Down = sound -
     (global-set-key (kbd "C-c <right>") 'next-multiframe-window)
 
 
-## M-x RET alin_start
+## Run a workflow in multi-windows
+
+// M-x RET alin_start
 
 
     (defun alin_start()
@@ -348,7 +348,7 @@ C-Page Down = sound -
     ;  (split-window-right)
     ;  (split-filet "/home/alin/work/README.md")
     (split-window-right)
-    (find-file "/home/alin/work/job.md")
+    (find-file "/home/alin/work/now.py")
     (split-window-right)
     (find-file "/home/alin/work/start.md")
     (balance-windows))
@@ -356,7 +356,7 @@ C-Page Down = sound -
 
     ;(add-hook 'text-mode-hook 'auto-fill-mode)
 
-* change file path with your own
+* change files path with your own
 
 ## Dash-at-point (Zeal integration)
 
@@ -379,7 +379,6 @@ C-Page Down = sound -
 
 
 =============================================
-
 
 
 ## Keyboard shortcuts
@@ -409,6 +408,7 @@ M-j space = re-organize
 M-m = maximize
 
 ..............................................
+
 ### Text editing
 
 C-_ = undo
@@ -441,6 +441,7 @@ C-y = yand/paste
 M-x = replace-string RET
 
 ..............................................
+
 ### Cursor management
 
 M-f/ M-b = Word forward / backward
@@ -505,6 +506,7 @@ C-x, C-l = Lowercase Selection
 C-x,C-+/- = text size
 
 ..............................................
+
 ### Macros
 
 C-x ( = start macro
@@ -553,7 +555,6 @@ C-x, o = Switch Focus Between Windows
 
 M+` = Activate Menu Bar
 
-
 .............................................
 
 ### Navigation and search
@@ -574,6 +575,7 @@ M-> = beginning of buffer
 M-x = occur RET find lines
 
 .............................................
+
 ### Move
 
 C-e - end of line
@@ -667,6 +669,7 @@ M-x .. magit-mode = git
 =============================================
 
 ## VYM
+
 View your Mind
 
 ### Scope Heading Editor:
@@ -911,7 +914,6 @@ View your Mind
 
 - Ctrl+O: Import
 
-
 ## Want to learn
 
 ### Learn inskape
@@ -920,12 +922,85 @@ View your Mind
 
 Open image (C-i) / (S+A+b) scans 2
 
-## Learning to do list
+## Firefox
+
+# Keyboard shortcuts ([link](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&as=u&redirectslug=Keyboard+shortcuts&utm_source=inproduct))
+
+- C+t: new tab
+
+- C+n: new window
+
+- C+k: focus search bar
+
+- C+Shift+v: paste in plain text
+
+- C+w: close tab
+
+- C+Shift+p: new private tab
+
+- C+Shift+t undo close tab
+
+- C+Shift+n undo closed window
+
+- C+1 to 8: select tab 1 to 8
+
+- C+Shift+Y: downloads
+
+- C+h: history
+
+- C+b: bookmarks
+
+- C+Shift+0: library window (bookmarks)
+
+- C+Shift+h: history window
+
+- C+Shift+a: addons
+
+- C+Shift+m: multipanel
+
+- C+Shift+p: page info
+
+- F4: close sidebar
+
+- C+Shift+F4: AllinOneSidebar options
+
+- C+Shift+k: web console
+
+- Shift+F2: developer toolbar
+
+- Shift+J: browser console
+
+- Shift+F5: profiler
+
+- Shift+F4: Scratchpad
+
+- C+u: page source
 
 
-### scrapy --help
 
-### scrot --help
+## Kupfer
+
+### Keyboard shortcuts
+
+- S+Space: start
+
+- A+a: alternate activate
+
+- C+,: comma trick
+
+- C+RET: compose command
+
+- C+r: reset all
+
+- C+q: select quit
+
+- C+g: select selected file
+
+- F1: show help
+
+- C+;: show prefferences
+
+- C+s: switch to first pane
 
 
 ===========================================
