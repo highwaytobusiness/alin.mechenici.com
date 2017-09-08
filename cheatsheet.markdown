@@ -18,19 +18,38 @@ A combination of potential blog posts, stackoverflow answers and experience. ** 
 
 	install: apt-get install awesome
 
-	chose_theme = "arrow"
+	chose_theme = "default-modified"
 
 	~/.config/awesome/rc.lua
 
     awesome -k
 
-xev = keyboard pointer (x-event)
+& su apt install xev
+& su apt install lxappearance
+& su apt install i3lock
+20170908141031
+
+Notes:
+
+* xev = keyboard pointer (x-event)
+
+
+### FontAwesome
+
+- [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases)
+
+- [playerctl](https://github.com/acrisci/playerctl/releases)
+
+- [mulimedia keys](https://faq.i3wm.org/question/3747/enabling-multimedia-keys/?answer=3759#post-id-3759)
+
+- [Arc Firefox Theme](https://github.com/horst3180/arc-firefox-theme) & [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/collections/horst3180/a/)
+
+- [Arc Theme debian](https://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme)
+
 
 ## i3
 
     apt install i3
-
-My i3 repository [soon](/dotfile/i3/)
 
 Favorite font
 
@@ -217,6 +236,44 @@ C-x C-q (cont..)
 C-x C-s =  edit files and folders as a file
 
 A-/ auto-complete cycle
+
+
+## emacs checklist:
+- medium, jekyll
+- erc
+- mutt
+- slack
+- excel
+- notes / remember
+- calendar gcal.el
+- codepad
+- ipython
+- python compiler
+- neotree
+- google maps
+- google translate
+- google here *search
+- eshell
+- hackernews
+- battery (laptop)
+- dashboard
+- bookmarks
+- trump (webdav, ssh, )
+- dropbox
+- email
+- telegram
+- firefox-mode
+- playerctl
+- alin_modes
+- emacs wm
+- templates
+- web server (w/ broweser sync)
+- sync content with mobile and ipad via calendar and dropbox/mega/box
+- excel updates
+- artist mode
+- org-mind-map
+- github
+- emmet mode (always on)
 
 ..............................................
 
