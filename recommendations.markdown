@@ -50,6 +50,7 @@ Cosmin Sandu, Business Development Executive
 Alin is the kind of trainer anyone wants to have. Funny, impressive, smart, outgoing, innovative and the list can go on. He is a trainer with lots of experience, lots of knowledge about...anything and everything. He makes you want to attend the training at least for the environment he creates, which is based on creativity and having a good time while learning new things. I would recommend to anybody who has the chance of attending a training or conference by Alin not to miss it and they'll understand what I mean after that!
 
 Alexandra Ioana Alexe, Tech Support AOL
+
 =====
 
 
