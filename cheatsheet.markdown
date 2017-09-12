@@ -34,8 +34,6 @@ Notes:
 * xev = keyboard pointer (x-event)
 
 
-### FontAwesome
-
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases)
 
 - [playerctl](https://github.com/acrisci/playerctl/releases)
@@ -46,7 +44,8 @@ Notes:
 
 - [Arc Theme debian](https://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme)
 
-
+- [f.lux](https://justgetflux.com/linux.html)
+ 
 ## i3
 
     apt install i3
@@ -390,7 +389,51 @@ C-Page Down = sound -
     (global-set-key (kbd "C-c <right>") 'next-multiframe-window)
 
 
+### codepad.org integration
+
+    (add-to-list 'load-path ".emacs.d/roaming/codepad.el") ;; replace PATH with the path to codepad.el
+    (autoload 'codepad-paste-region "codepad" "Paste region to codepad.org." t)
+    (autoload 'codepad-paste-buffer "codepad" "Paste buffer to codepad.org." t)
+    (autoload 'codepad-fetch-code "codepad" "Fetch code from codepad.org." t)
+
+
+
 ## Run a workflow in multi-windows
+
+// Mx- RET notes
+
+
+
+   (defun notes()
+   	   (interactive)
+	   ;(find-file "book.md")
+	   (find-file "/home/alin/.emacs.d/notes")
+	   (split-window-right)
+	   (find-file "/home/alin/Work/TODO.md")
+
+	   ;(find-file "/home/alin/.config/awesome/rc.lua")
+	   ;  (split-window-right)
+	   ;  (split-filet "/home/alin/work/README.md")
+	   ;(split-window-right)
+	   ;(find-file "/home/alin/.emacs.d/init.el")
+	   ;(split-window-right)
+
+
+	   ;(find-file "/home/alin/work/start.m")
+	   (balance-windows))
+
+
+Call "notes": f2
+
+
+     (defun file-notes()
+     	    (interactive)
+  	    (find-file (concat (getenv "HOME") "/.emacs.d/notes")))
+	    (global-set-key [f3] 'file-notes)
+	    (global-set-key (kbd "<XF86Search>") 'file-notes)
+	    (global-set-key (kbd "<XF86AudioRaiseVolume>") 'file-notes)
+
+
 
 // M-x RET alin_start
 
