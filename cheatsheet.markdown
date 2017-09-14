@@ -66,6 +66,13 @@ Stop the terminal bell (can be placed in a script or in i3 config file)
 
     xset b off
 
+#### make apps start from terminal / S-r
+
+     wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+     sudo tar -xzf postman.tar.gz -C /opt
+     rm postman.tar.gz
+     sudo ln -s /opt/Postman/Postman /usr/bin/postman
+
 #### key bindings
 
 Print key = printscreen
@@ -126,6 +133,26 @@ Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
 
 Mutt settings for gmail
 
+
+## Neo4j
+
+The Debian package is available from http://debian.neo4j.org. To use the repository follow these steps:
+
+    wget -O - https://debian.neo4j.org/neotechnology.gpg.key | sudo apt-key add -
+    echo 'deb http://debian.neo4j.org/repo stable/' | sudo tee -a /etc/apt/sources.list.d/neo4j.list
+    sudo apt-get update
+
+To install Neo4j Community Edition:
+
+   sudo apt-get install neo4j=3.2.3
+
+Start:
+
+	service neo4j start
+
+Make defaul homepage in chromium:
+
+     http://localhost:7474/browser/
 
 ## Markdown
 
