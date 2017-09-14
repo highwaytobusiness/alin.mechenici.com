@@ -27,7 +27,7 @@ A combination of potential blog posts, stackoverflow answers and experience. ** 
 & su apt install xev
 & su apt install lxappearance
 & su apt install i3lock
-20170908141031
+
 
 Notes:
 
@@ -131,7 +131,35 @@ Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
     set message_cachedir = "~/.mutt/cache/bodies"
     set certificate_file = "~/.mutt/certificates"
 
-Mutt settings for gmail
+## [F.lux](https://github.com/xflux-gui/xflux-gui)
+
+### Install dependencies
+
+  sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
+
+### Download xflux-gui
+
+  cd /tmp
+
+  git clone "https://github.com/xflux-gui/xflux-gui.git"
+
+  cd xflux-gui
+
+   python download-xflux.py
+
+### EITHER install globally
+
+  sudo python setup.py install
+
+### EXCLUSIVE OR, install in your home directory. The binary installs
+#### into ~/.local/bin, so be sure to add that to your PATH if installing locally.
+
+  python setup.py install --user
+
+### Run flux
+
+  fluxgui
+
 
 
 ## Neo4j
@@ -144,7 +172,10 @@ The Debian package is available from http://debian.neo4j.org. To use the reposit
 
 To install Neo4j Community Edition:
 
+
    sudo apt-get install neo4j=3.2.3
+   apt-get install neo4j=3.2.4
+
 
 Start:
 
