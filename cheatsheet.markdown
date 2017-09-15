@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Cheatsheet
+title: Personal cheatsheet TL/DR
 permalink: /cheatsheet/
 ---
 
 
-# About this Cheatsheet
+About this Cheatsheet
 
-This is a combination of potential blog posts, stackoverflow answers and experience. ** Ctrl + F ** to find what you need.
+This one page cheatsheet is a more convenient way to store potential blog posts, interesting resources and technical experiences with the world.
 
-Idea for this page is taken from [smalldata.tech](https://smalldata.tech/cheatsheets) and some of the cheatsheets are based on: [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+Before starting this I used different other platforms like [de.icio.us](https://del.icio.us/alin.mechenici), [twitter](https://twitter.com/alinmechenici), etc.
+
+Use the table of contents and Ctrl + f to find more easily.
 
 ## Table of Contents
 
@@ -17,10 +19,23 @@ My Linux Cheatsheet
 
 - [Applications installed](#applications-installed)
 - [Window Managers](#window-managers)
+
+-- [AwesomeWM](#awesomewm)
+
+-- [i3WM](#i3wm)
+
 - [Applications](#applications)
+
 -- [Emacs](#emacs)
+
 -- [Mutt](#mutt)
+
 -- [Zeal](#zeal)
+
+My iOS Cheatsheet
+
+- [iOS Applications](#ios-applications)
+- [iOS Workflows](#ios-workflows)
 
 Programs Cheatsheet
 
@@ -57,11 +72,11 @@ Apps Shortcuts
 
 ===============================================================
 
-## My Linux Cheatsheet
+# My Linux Cheatsheet
 
-### Window Managers
+## Window Managers
 
-#### Awesome
+### AwesomeWM
 
     startx
 
@@ -95,7 +110,7 @@ Notes:
 
 - [f.lux](https://justgetflux.com/linux.html)
 
-#### i3
+### i3WM
 
     apt install i3
 
@@ -115,14 +130,14 @@ Stop the terminal bell (can be placed in a script or in i3 config file)
 
     xset b off
 
-##### make apps start from terminal / S-r
+Make apps start from terminal / S-r
 
      wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
      sudo tar -xzf postman.tar.gz -C /opt
      rm postman.tar.gz
      sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
-##### key bindings
+Key bindings
 
 Print key = printscreen
 
@@ -1398,8 +1413,6 @@ Keyboard shortcuts resource ([link](https://support.mozilla.org/en-US/kb/keyboar
 
 - C+u: page source
 
-
-
 ## Kupfer shortcuts
 
 - S+Space: start
@@ -1424,7 +1437,6 @@ Keyboard shortcuts resource ([link](https://support.mozilla.org/en-US/kb/keyboar
 
 ===========================================
 
-
 Other Resources:
 
-- template [slides](https://github.com/highwaytobusiness/alin.mechenici.com/tree/gh-pages/slides)
+Idea for this page is taken from [smalldata.tech](https://smalldata.tech/cheatsheets) and some of the cheatsheets are based on: [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
