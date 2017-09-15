@@ -103,6 +103,7 @@ Prerequisites needs to be installed:
 You can use the bulk install:
 
 sudo apt install \
+
      bc \
      apt-transport-https \
      ca-certificates \
@@ -115,37 +116,38 @@ sudo apt install \
      tar \
      git \
 
-Applications installed from the terminal:
+Applications installed from the terminal.
 
 You can use the bulk install:
 
-su RET pswd
+    su RET pswd
 
-   apt install xev \
-	       lxappearance \
-	       i3lock \
-	       xclip \
-	       zeal \
-	       chromium \
-	       firefox \
-	       planner \
-	       terminator \
-	       gnome-alsamixer \
-	       mpv \
-	       dropbox \
-	       docker \
-	       dia \
-	       vym \
-	       gnome-calendar \
-	       gnome-commander \
-	       gnome-documents \
-	       gtranslator \
-	       ipython \
-	       keepass2 \
-	       inkscape \
-	       geeqie \
-	       calibre \
-	       
+apt install
+
+   xev \
+   lxappearance \
+   i3lock \
+   xclip \
+   zeal \
+   chromium \
+   firefox \
+   planner \
+   terminator \
+   gnome-alsamixer \
+   mpv \
+   dropbox \
+   docker \
+   dia \
+   vym \
+   gnome-calendar \
+   gnome-commander \
+   gnome-documents \
+   gtranslator \
+   ipython \
+   keepass2 \
+   inkscape \
+   geeqie \
+   calibre \
 
 Use this command to install Node.js and npm
 
@@ -154,7 +156,7 @@ Use this command to install Node.js and npm
 
 Install libreoffice without UI:
 
-   apt-get --no-install-recommends install libreoffice
+	apt-get --no-install-recommends install libreoffice
 
 Other apps and plugins:
 
@@ -185,26 +187,23 @@ More complex installations:
 
 Install dependencies:
 
-      sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
+	sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
 
 Download [xflux-gui](https://github.com/xflux-gui/xflux-gui)
 
-  cd /tmp
-
-  git clone "https://github.com/xflux-gui/xflux-gui.git"
-
-  cd xflux-gui
-
-  python download-xflux.py
+	 cd /tmp
+	 git clone "https://github.com/xflux-gui/xflux-gui.git"
+	 cd xflux-gui
+	 python download-xflux.py
 
 EITHER install globally
 
-  sudo python setup.py install
+       sudo python setup.py install
 
 EXCLUSIVE OR, install in your home directory. The binary installs
 into ~/.local/bin, so be sure to add that to your PATH if installing locally.
 
-  python setup.py install --user
+     python setup.py install --user
 
 Run flux
 
@@ -238,11 +237,11 @@ Create a new repository:
 
 Existing folder: cd existing_folder
 
-   git init
-   git remote add origin git@github.com:alinmechenici/somerepo.git
-   git add .
-   git commit -m "Initial commit"
-   git push -u origin master
+	 git init
+	 git remote add origin git@github.com:alinmechenici/somerepo.git
+	 git add .
+	 git commit -m "Initial commit"
+	 git push -u origin master
 
 Existing Git repository
 
@@ -250,7 +249,6 @@ Existing Git repository
 	 git remote add origin git@gitlab.com:alinmechenici/repo.git
 	 git push -u origin --all
 	 git push -u origin --tags
-
 
 Notes:
 
@@ -413,7 +411,6 @@ To install Neo4j Community Edition:
    sudo apt-get install neo4j=3.2.3
    apt-get install neo4j=3.2.4
 
-
 Start:
 
 	service neo4j start
@@ -421,72 +418,6 @@ Start:
 Make defaul homepage in chromium:
 
      http://localhost:7474/browser/
-
-
-## OrgMode
-
-Add tasks in OrgMode
-
-* A-Return = *
-
-** A- -> = sub-bullets
-
-* A-arows up/down = Move
-
-* TODO S- -> = To Do
-
-* DONE S- <- = Done
-
-### Checkbox [1/2]
-
-    "["/"]" C-c, C-c adds number of items in checklist
-
-  "["%"]" C-c, C-c adds procentage
-
-- [ ] checkbox
-
-- [X] checkbox checked (C-c, C-c)
-
-- [ ] checkbox 3
-
-### Deadlines
-
-C-c C-d = Add deadlines
-
-* go home
-
-DEADLINE: <2017-07-16 Sun>
-
-### Tags
-
-C-c C-c = Add tags
-
-### Hides
-
-    Cursor tab = hide
-
-    S-tab = hide more
-
-### Save
-
-    C-x C-s = save
-
-### Agenda view
-
-Start agenda view C-c [
-
-A-x org-agenda
-
-C-0 = back to original file
-
-q = exit screen
-
-* case sensitive ("m" for all or "M" for TODO)
-
-
-
-C-h t = tutorial
-
 
 =============================================
 
@@ -714,6 +645,73 @@ Use Zeal app with XF86WebCam (f8) key to open "zeal-at-point"
 
    /home/alin/.emacs.d/notes
    /home/alin/Work/TODO.md
+
+
+----------------------------
+
+## OrgMode
+
+Add tasks in OrgMode
+
+* A-Return = *
+
+** A- -> = sub-bullets
+
+* A-arows up/down = Move
+
+* TODO S- -> = To Do
+
+* DONE S- <- = Done
+
+### Checkbox [1/2]
+
+    "["/"]" C-c, C-c adds number of items in checklist
+
+  "["%"]" C-c, C-c adds procentage
+
+- [ ] checkbox
+
+- [X] checkbox checked (C-c, C-c)
+
+- [ ] checkbox 3
+
+### Deadlines
+
+C-c C-d = Add deadlines
+
+* go home
+
+DEADLINE: <2017-07-16 Sun>
+
+### Tags
+
+C-c C-c = Add tags
+
+### Hides
+
+    Cursor tab = hide
+
+    S-tab = hide more
+
+### Save
+
+    C-x C-s = save
+
+### Agenda view
+
+Start agenda view C-c [
+
+A-x org-agenda
+
+C-0 = back to original file
+
+q = exit screen
+
+* case sensitive ("m" for all or "M" for TODO)
+
+
+
+C-h t = tutorial
 
 
 --------------------------------------------
