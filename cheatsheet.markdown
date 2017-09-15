@@ -16,37 +16,68 @@ I encourange you to use the table of contents and Ctrl + f to find more easily.
 My Linux Cheatsheet
 - [My Linux Checklist](#my-linux-checklist)
 - [Applications installed](#applications-installed)
+
 -- [Install apps](#install-apps)
+
 - [Applications](#applications)
+
 -- [Zeal](#zeal)
+
 -- [F.lux](#f.lux)
+
 -- [Neo4j](#neo4j)
+
 -- [VYM](#vym)
+
 -- [Planner](#planner)
+
 -- [Libreoffice](#libreoffice)
+
 -- [Gnome-Commander](#gnome-commander)
+
 -- [Dia](#dia)
+
 -- [Mpv](#mpv)
+
 -- [Chromium](#chromium)
+
 -- [Firefox](#firefox)
+
 -- [Docker](#docker)
+
 -- [KeePass](#keepass)
+
 -- [OpenSSL](#openssl)
+
 -- [OpenSSH](#openssh)
 
 My dotfiles
+
 - [Window Managers](#window-managers)
+
 -- [AwesomeWM](#awesomewm)
+
 -- [i3WM](#i3wm)
+
 -- [Emacs](#emacs)
+
 -- [Mutt](#mutt)
+
 -- [Zsh](#Zsh)
+
 -- [bin scripts](#bin-scripts)
+
+My MacOS Cheatsheet
+
+- [Article: "My MacOS apps & workflows"](http://alin.mechenici.com/macos)
 
 My iOS Cheatsheet (*soon)
 
+- [Article: "iOS for webDev"](http://alin.mechenici.com/ios-webdev)
+- [Article: "Affinity Photo (now) & Designer (later)"](http://alin.mechenici.com/affinity-for-ios)
 - [iOS Applications](#ios-applications)
 - [iOS Workflows](#ios-workflows)
+
 
 Programs (external) Cheatsheet
 
@@ -680,20 +711,11 @@ Call "notes": f2
 
 ## Editors
 
-- [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
-    - [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
-    - [A really easy to read and comprehensive guide on vim.](https://vim.rtorr.com/)
 - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
     - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
-- IntellJ IDEA
-    - [Windows/Linux](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-    - [Mac OS X](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [Eclipse](https://github.com/pellaton/eclipse-cheatsheet)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
-- [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
-- [PHPStorm - Mac/Win](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
 
 ## Tools
 
