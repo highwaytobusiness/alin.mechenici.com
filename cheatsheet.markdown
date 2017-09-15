@@ -1,43 +1,54 @@
 ---
 layout: page
-title: Personal cheatsheet TL/DR
+title: Personal cheatsheet tl;dr;search
 permalink: /cheatsheet/
 ---
 
 
-About this Cheatsheet
+About this page:
 
-This one page cheatsheet is a more convenient way to store potential blog posts, interesting resources and technical experiences with the world.
+This one page cheatsheet is a (more) convenient way to store potential blog posts, interesting resources and technical experiences with the world. Before starting this I used different other platforms like [de.icio.us](https://del.icio.us/alin.mechenici), [twitter](https://twitter.com/alinmechenici), etc.
 
-Before starting this I used different other platforms like [de.icio.us](https://del.icio.us/alin.mechenici), [twitter](https://twitter.com/alinmechenici), etc.
+I encourange you to use the table of contents and Ctrl + f to find more easily.
 
-Use the table of contents and Ctrl + f to find more easily.
-
-## Table of Contents
+# Table of Contents
 
 My Linux Cheatsheet
-
+- [My Linux Checklist](#my-linux-checklist)
 - [Applications installed](#applications-installed)
-- [Window Managers](#window-managers)
-
--- [AwesomeWM](#awesomewm)
-
--- [i3WM](#i3wm)
-
+-- [Install apps](#install-apps)
 - [Applications](#applications)
-
--- [Emacs](#emacs)
-
--- [Mutt](#mutt)
-
 -- [Zeal](#zeal)
+-- [F.lux](#f.lux)
+-- [Neo4j](#neo4j)
+-- [VYM](#vym)
+-- [Planner](#planner)
+-- [Libreoffice](#libreoffice)
+-- [Gnome-Commander](#gnome-commander)
+-- [Dia](#dia)
+-- [Mpv](#mpv)
+-- [Chromium](#chromium)
+-- [Firefox](#firefox)
+-- [Docker](#docker)
+-- [KeePass](#keepass)
+-- [OpenSSL](#openssl)
+-- [OpenSSH](#openssh)
 
-My iOS Cheatsheet
+My dotfiles
+- [Window Managers](#window-managers)
+-- [AwesomeWM](#awesomewm)
+-- [i3WM](#i3wm)
+-- [Emacs](#emacs)
+-- [Mutt](#mutt)
+-- [Zsh](#Zsh)
+-- [bin scripts](#bin-scripts)
+
+My iOS Cheatsheet (*soon)
 
 - [iOS Applications](#ios-applications)
 - [iOS Workflows](#ios-workflows)
 
-Programs Cheatsheet
+Programs (external) Cheatsheet
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
@@ -60,15 +71,21 @@ Programs Cheatsheet
 
 Keyboard Shortcuts
 
+- [Keyboard description](#keyboard-description)
+- [Keyboard shortcuts automation](#keyboard-shortcuts-automation)
+
 WebApps Shortcuts
 
 - [Gmail](#gmail)
+- [RemembertheMilk](#rememberthemilk)
 
 Apps Shortcuts
 
 - [Emacs shortcuts](#emacs-shortcuts)
+- [Mutt shortcuts](#mutt-shortcuts)
 - [VYM shortcuts](#vym-shortcuts)
-- [Firefox](#firefox-shortcuts)
+- [Firefox shortcuts](#firefox-shortcuts)
+- [Remember the Milk shortcuts](#remember-the-milk-shortcuts)
 
 ===============================================================
 
@@ -176,7 +193,7 @@ Open telegram
 
     dmesg -c = clear
 
-##### Mutt
+## Mutt
 
 Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
 
@@ -195,7 +212,7 @@ Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
     set message_cachedir = "~/.mutt/cache/bodies"
     set certificate_file = "~/.mutt/certificates"
 
-#### [F.lux](https://github.com/xflux-gui/xflux-gui)
+## [F.lux](https://github.com/xflux-gui/xflux-gui)
 
 ##### Install dependencies
 
@@ -226,7 +243,7 @@ Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
 
 
 
-### Neo4j
+## Neo4j
 
 The Debian package is available from http://debian.neo4j.org. To use the repository follow these steps:
 
