@@ -17,67 +17,41 @@ My Linux Cheatsheet
 - [My Linux Checklist](#my-linux-checklist)
 - [Applications installed](#applications-installed)
 
--- [Install apps](#install-apps)
-
 - [Applications](#applications)
 
--- [Zeal](#zeal)
-
--- [F.lux](#f.lux)
-
--- [Neo4j](#neo4j)
-
--- [VYM](#vym)
-
--- [Planner](#planner)
-
--- [Libreoffice](#libreoffice)
-
--- [Gnome-Commander](#gnome-commander)
-
--- [Dia](#dia)
-
--- [Mpv](#mpv)
-
--- [Chromium](#chromium)
-
--- [Firefox](#firefox)
-
--- [Docker](#docker)
-
--- [KeePass](#keepass)
-
--- [OpenSSL](#openssl)
-
--- [OpenSSH](#openssh)
+- [Zeal](#zeal)
+- [F.lux](#f.lux)
+- [Neo4j](#neo4j)
+- [VYM](#vym)
+- [Planner](#planner)
+- [Libreoffice](#libreoffice)
+- [Gnome-Commander](#gnome-commander)
+- [Dia](#dia)
+- [Mpv](#mpv)
+- [Chromium](#chromium)
+- [Firefox](#firefox)
+- [Docker](#docker)
+- [KeePass](#keepass)
+- [OpenSSL](#openssl)
+- [OpenSSH](#openssh)
 
 My dotfiles
 
-- [Window Managers](#window-managers)
-
--- [AwesomeWM](#awesomewm)
-
--- [i3WM](#i3wm)
-
--- [Emacs](#emacs)
-
--- [Mutt](#mutt)
-
--- [Zsh](#Zsh)
-
--- [bin scripts](#bin-scripts)
+- [AwesomeWM](#awesomewm)
+- [i3WM](#i3wm)
+- [Emacs](#emacs)
+- [Mutt](#mutt)
+- [Zsh](#Zsh)
+- [bin scripts](#bin-scripts)
 
 My MacOS Cheatsheet
 
 - [Article: "My MacOS apps & workflows"](http://alin.mechenici.com/macos)
 
-My iOS Cheatsheet (*soon)
+My iOS Cheatsheet
 
 - [Article: "iOS for webDev"](http://alin.mechenici.com/ios-webdev)
 - [Article: "Affinity Photo (now) & Designer (later)"](http://alin.mechenici.com/affinity-for-ios)
-- [iOS Applications](#ios-applications)
-- [iOS Workflows](#ios-workflows)
-
 
 Programs (external) Cheatsheet
 
@@ -122,29 +96,67 @@ Apps Shortcuts
 
 # My Linux Cheatsheet
 
-## Window Managers
+## Linux applications:
 
-### AwesomeWM
+Prerequisites needs to be installed:
 
-    startx
+You can use the bulk install:
 
-	install: apt-get install awesome
+sudo apt install \
+     bc \
+     apt-transport-https \
+     ca-certificates \
+     curl \
+     gnupg2 \
+     software-properties-common \
+     zsh \
+     wget \
+     python3 \
+     tar \
+     git \
 
-	chose_theme = "default-modified"
+Applications installed from the terminal:
 
-	~/.config/awesome/rc.lua
+You can use the bulk install:
 
-    awesome -k
+su RET pswd
 
-& su apt install xev
-& su apt install lxappearance
-& su apt install i3lock
+   apt install xev \
+	       lxappearance \
+	       i3lock \
+	       xclip \
+	       zeal \
+	       chromium \
+	       firefox \
+	       planner \
+	       terminator \
+	       gnome-alsamixer \
+	       mpv \
+	       dropbox \
+	       docker \
+	       dia \
+	       vym \
+	       gnome-calendar \
+	       gnome-commander \
+	       gnome-documents \
+	       gtranslator \
+	       ipython \
+	       keepass2 \
+	       inkscape \
+	       geeqie \
+	       calibre \
+	       
 
+Use this command to install Node.js and npm
 
-Notes:
+    curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
+    sudo apt install nodejs npm
 
-* xev = keyboard pointer (x-event)
+Install libreoffice without UI:
 
+   apt-get --no-install-recommends install libreoffice
+
+Other apps and plugins:
 
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases)
 
@@ -156,9 +168,161 @@ Notes:
 
 - [Arc Theme debian](https://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme)
 
-- [f.lux](https://justgetflux.com/linux.html)
 
-### i3WM
+Applications like: postman, noodl, onlyoffice, telegram, Remember The Milk, Gravit, skype, etc, to start from terminal / S-r
+
+Example: Postman
+
+     wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+     sudo tar -xzf postman.tar.gz -C /opt
+     rm postman.tar.gz
+     sudo ln -s /opt/Postman/Postman /usr/bin/postman
+
+
+More complex installations:
+
+## [f.lux](https://justgetflux.com/linux.html)
+
+Install dependencies:
+
+      sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
+
+Download [xflux-gui](https://github.com/xflux-gui/xflux-gui)
+
+  cd /tmp
+
+  git clone "https://github.com/xflux-gui/xflux-gui.git"
+
+  cd xflux-gui
+
+  python download-xflux.py
+
+EITHER install globally
+
+  sudo python setup.py install
+
+EXCLUSIVE OR, install in your home directory. The binary installs
+into ~/.local/bin, so be sure to add that to your PATH if installing locally.
+
+  python setup.py install --user
+
+Run flux
+
+    fluxgui
+
+---
+
+## Configurations
+
+Stop the terminal bell:
+
+Can be placed in a script or in i3 config file:
+
+    xset b off
+
+
+Configure git:
+
+	  git config --global user.name "Alin Mechenici"
+	  git config --global user.email "alin at my email dot smth"
+
+Create a new repository:
+
+
+       git clone git@github.com:alinmechenici/somerepo.git
+       cd repo
+       touch README.md
+       git add README.md
+       git commit -m "add README"
+       git push -u origin master
+
+Existing folder: cd existing_folder
+
+   git init
+   git remote add origin git@github.com:alinmechenici/somerepo.git
+   git add .
+   git commit -m "Initial commit"
+   git push -u origin master
+
+Existing Git repository
+
+	 cd existing_repo
+	 git remote add origin git@gitlab.com:alinmechenici/repo.git
+	 git push -u origin --all
+	 git push -u origin --tags
+
+
+Notes:
+
+* xev = keyboard pointer (x-event)
+
+* lxappearance = change the appearance in awesome and i3
+
+* i3lock = lock the screen in awesome and i3
+
+* flux = change to the night mode
+
+* tar unpack = tar xvf file.tar
+
+# My dotfiles
+
+Window Managers: AwesomeWM & i3
+
+## AwesomeWM
+
+    startx
+
+	install: apt-get install awesome
+
+	chose_theme = "default-modified"
+
+	~/.config/awesome/rc.lua
+
+    awesome -k
+
+Awesome tags:
+
+	1: start
+	2: code
+	3: internet
+	4: idea
+	5: agile
+	6: office
+	7: irc
+	8: root
+	9: other
+
+Open apps at startup using:
+
+     awful.util.spawn("emacs")
+
+Open Applications in ONLY this specific tag:
+
+1. free to open any app
+
+2. code
+
+- terminal split vertically in two (top)
+- emacs (bottom)
+- zeal (right)
+
+3. chromium in incognito
+
+4. VYM
+
+5. Emacs in agile-mode
+
+6. libreoffice, planner, calendar, gnome-commander, nautilus, documents, dictionary, zotero, etc
+
+7. telegram, mutt, slack, irc, shared calendar, dropbox cli, twitter
+
+8. terminal in root mode
+
+9. mpv, etc
+
+
+
+## i3WM
 
     apt install i3
 
@@ -174,16 +338,7 @@ Always open thunar window manager when i3 starts
 
     exec_always thunar # open window manager
 
-Stop the terminal bell (can be placed in a script or in i3 config file)
 
-    xset b off
-
-Make apps start from terminal / S-r
-
-     wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
-     sudo tar -xzf postman.tar.gz -C /opt
-     rm postman.tar.gz
-     sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
 Key bindings
 
@@ -243,35 +398,6 @@ Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
     set message_cachedir = "~/.mutt/cache/bodies"
     set certificate_file = "~/.mutt/certificates"
 
-## [F.lux](https://github.com/xflux-gui/xflux-gui)
-
-##### Install dependencies
-
-  sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
-
-##### Download xflux-gui
-
-  cd /tmp
-
-  git clone "https://github.com/xflux-gui/xflux-gui.git"
-
-  cd xflux-gui
-
-   python download-xflux.py
-
-###### EITHER install globally
-
-  sudo python setup.py install
-
-###### EXCLUSIVE OR, install in your home directory. The binary installs
-###### into ~/.local/bin, so be sure to add that to your PATH if installing locally.
-
-  python setup.py install --user
-
-###### Run flux
-
-  fluxgui
-
 
 
 ## Neo4j
@@ -283,7 +409,6 @@ The Debian package is available from http://debian.neo4j.org. To use the reposit
     sudo apt-get update
 
 To install Neo4j Community Edition:
-
 
    sudo apt-get install neo4j=3.2.3
    apt-get install neo4j=3.2.4
@@ -439,6 +564,18 @@ A-/ auto-complete cycle
 
 ..............................................
 
+IDEAS to implement:
+- emacs + google calendar:
+
+emacs files:
+
+- notes.md (dropbox.el)
+- TODO.md (dropbox.el)
+- Doing.md (dropbox.el in sync with gcal.el)
+- Done (sync with dropbox.el)
+* all 4 sinced with trello
+
+
 .............................................
 
 ## Compilation example
@@ -553,6 +690,7 @@ Call "notes": f2
 * change files path with your own
 
 ## Dash-at-point (Zeal integration)
+Use Zeal app with XF86WebCam (f8) key to open "zeal-at-point"
 
     ;(global-set-key "bla" 'zeal-at-point)
     (global-set-key [f1] 'zeal-at-point)
@@ -570,6 +708,12 @@ Call "notes": f2
     (global-set-key [f8] 'neotree-toggle)
 
     (setq misterioso (if (display-graphic-p) 'icons 'arrow)) ; neo-theme
+
+## Notes
+
+
+   /home/alin/.emacs.d/notes
+   /home/alin/Work/TODO.md
 
 
 --------------------------------------------
@@ -683,7 +827,10 @@ Call "notes": f2
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 - [ror](http://www.cheatography.com/davechild/cheat-sheets/ruby-on-rails/)
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
-- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
+- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3), [node api](https://nodejs.org/api/path.html)
+
+- [ExpressJS API docs](http://expressjs.com/en/api.html)
+
 - [django](http://awesome-django.com)
 - [django-cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 - [syscall-cheatsheet](http://syscalls.kernelgrok.com/)
@@ -700,6 +847,7 @@ Call "notes": f2
 - [postgresql](https://dzone.com/refcardz/essential-postgresql)
 - [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 - [SQL](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)
+- Neo4j [manual for linux](https://neo4j.com/docs/operations-manual/current/installation/linux/), [linux install](https://neo4j.com/download-thanks/?edition=community&release=3.2.4&flavour=unix&_ga=2.260749903.35770474.1505387257-1130915347.1505387257), [stackoverflow tag](https://stackoverflow.com/questions/tagged/neo4j), [localhost](http://localhost:7474/browser/)
 
 ## Theory
 
@@ -777,7 +925,22 @@ Call "notes": f2
 
 # Keyboard shortcuts
 
-## Emacs shortcuts
+### General Keyboard shortcuts
+
+Terminal: M-RET
+Emacs: C-F5
+Incscape: C-F6
+Designer: C-F7
+
+
+
+
+## Emacs shortcuts and keybindings
+
+(f5) - ymdhms timestamp
+(f8) - zeal-at-point
+(f10) - compile py / start apps in awesome wm
+
 
 ### Intro
 
