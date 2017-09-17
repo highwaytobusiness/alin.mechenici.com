@@ -70,11 +70,11 @@ WebApps Shortcuts
 
 Apps Shortcuts
 
-- [Emacs shortcuts](#emacs-shortcuts)
-- [Mutt shortcuts](#mutt-shortcuts)
-- [VYM shortcuts](#vym-shortcuts)
-- [Firefox shortcuts](#firefox-shortcuts)
-- [Remember the Milk shortcuts](#remember-the-milk-shortcuts)
+- [Emacs shortcuts](http://alin.mechenici.com/dotfiles#emacs-shortcuts)
+- [Mutt shortcuts](http://alin.mechenici.com/dotfiles#mutt-shortcuts)
+- [VYM shortcuts](http://alin.mechenici.com/shortcuts#vym-shortcuts)
+- [Firefox shortcuts](http://alin.mechenici.com/shortcuts#firefox-shortcuts)
+- [Remember the Milk shortcuts](http://alin.mechenici.com/shortcuts#remember-the-milk-shortcuts)
 
 ===============================================================
 
@@ -206,9 +206,7 @@ Notes:
 
 * tar unpack = tar xvf file.tar
 
-
 ===============================================
-
 
 #### search
 
@@ -472,13 +470,11 @@ Make defaul homepage in chromium:
 
 
 ## Browsers
+
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&redirectslug=Keyboard+shortcuts)
 
-=============================================
-
-
-===========================================
+======================================================
 
 Other Resources:
 

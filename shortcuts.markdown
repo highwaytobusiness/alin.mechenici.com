@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Dotfiles
-permalink: /dotfiles/
+title: Apps shortcuts
+permalink: /shortcuts/
 ---
 
-
-# Keyboard shortcuts
+# My Linux machine
 
 ### General Keyboard shortcuts
 
@@ -13,9 +12,6 @@ Terminal: M-RET
 Emacs: C-F5
 Incscape: C-F6
 Designer: C-F7
-
-
-
 
 ## Emacs shortcuts and keybindings
 

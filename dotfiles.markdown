@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dotfiles
+title: My Dotfiles
 permalink: /dotfiles/
 ---
 
