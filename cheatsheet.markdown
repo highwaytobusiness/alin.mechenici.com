@@ -124,30 +124,30 @@ You can use the bulk install:
 
 apt install
 
-   xev \
-   lxappearance \
-   i3lock \
-   xclip \
-   zeal \
-   chromium \
-   firefox \
-   planner \
-   terminator \
-   gnome-alsamixer \
-   mpv \
-   dropbox \
-   docker \
-   dia \
-   vym \
-   gnome-calendar \
-   gnome-commander \
-   gnome-documents \
-   gtranslator \
-   ipython \
-   keepass2 \
-   inkscape \
-   geeqie \
-   calibre \
+    xev \
+    lxappearance \
+    i3lock \
+    xclip \
+    zeal \
+    chromium \
+    firefox \
+    planner \
+    terminator \
+    gnome-alsamixer \
+    mpv \
+    dropbox \
+    docker \
+    dia \
+    vym \
+    gnome-calendar \
+    gnome-commander \
+    gnome-documents \
+    gtranslator \
+    ipython \
+    keepass2 \
+    inkscape \
+    geeqie \
+    calibre \
 
 Use this command to install Node.js and npm
 
@@ -639,12 +639,6 @@ Use Zeal app with XF86WebCam (f8) key to open "zeal-at-point"
     (global-set-key [f8] 'neotree-toggle)
 
     (setq misterioso (if (display-graphic-p) 'icons 'arrow)) ; neo-theme
-
-## Notes
-
-
-   /home/alin/.emacs.d/notes
-   /home/alin/Work/TODO.md
 
 
 ----------------------------

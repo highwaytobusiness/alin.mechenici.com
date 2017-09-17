@@ -17,24 +17,19 @@ Corneliu Creanga, Software engineer Adobe
 
 ======
 
-<<<<<<< HEAD
 > I worked with Alin in a few marketing projects for Medical Tours Company. He accomplished all the tasks as expected but more than that, he managed to implement a new consciousness in employees mind, to satisfy the demanding clients in a professional way.
 
 > I recomand him as a profesional PR trainer and business developer
+
 =======
+
 > I worked with Alin in a few marketing projects for Medical Tours Company. He accomplished all the tasks as expected but more than that, he managed to implement a new consciousness in employees mind, to satisfy the demanding clients in a professional way. I recomand him as a profesional PR trainer and business developer
->>>>>>> accac7a654784c9c20263fe4a7793196fcfddc42
 
 Liviu Nicolae Cuta, IT Manager @ Qdev Software Concept
 
 
 ======
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> accac7a654784c9c20263fe4a7793196fcfddc42
 > Alin is an enthusiastic person with real leadership abilities, able to catalyze and motivate people who work for a noble cause.
 
 Laurentiu Lazar, Career Architect
@@ -100,14 +95,15 @@ Camelia Matara, HR Proffesional
 
 =====
 
-<<<<<<< HEAD
 > Bringing GeekMeet in Craiova was a really big achievement of Alin Mechenici and the PR Patrat team. Together they made a really good job.
 It was the first time I've had the oportunity to talk to a Yahoo Evanghelist or to interact with a SeedMoney investor that had a speech about entrepreneurship and big dreams in my city. 
 > The meetings could be easily tagged as mind-opening events. And all these because he and his colleagues worked hard.
+
 =======
+
 > Bringing GeekMeet in Craiova was a really big achievement of Alin Mechenici and the PR Patrat team. Together they made a really good job. It was the first time I've had the oportunity to talk to a Yahoo Evanghelist or to interact with a SeedMoney investor that had a speech about entrepreneurship and big dreams in my city. 
 The meetings could be easily tagged as mind-opening events. And all these because he and his colleagues worked hard.
->>>>>>> accac7a654784c9c20263fe4a7793196fcfddc42
+
 Gabriel Udrescu, Product Owner and Agile Promoter @ BestValue.eu
 
 =====
