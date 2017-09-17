@@ -5,9 +5,6 @@ permalink: /dotfiles/
 ---
 
 
----
-
-
 # My dotfiles
 
 Window Managers: AwesomeWM & i3
