@@ -15,15 +15,19 @@ I encourange you to use the table of contents and Ctrl + f to find more easily.
 
 My Linux Cheatsheet
 
-- [Applications installed](#applications)
+- [Applications](http://alin.mechenici.com/applications)
 
-My [dotfiles](http://alin.mechenici.com/dotfiles)
+- My [dotfiles](http://alin.mechenici.com/dotfiles)
 
-- [AwesomeWM](http://alin.mechenici.com/dotfiles#awesomewm)
-- [i3WM](http://alin.mechenici.com/dotfiles#i3wm)
-- [Emacs](http://alin.mechenici.com/dotfiles#emacs)
-- [Mutt](http://alin.mechenici.com/dotfiles#mutt)
-- [Zsh](http://alin.mechenici.com/dotfiles#Zsh)
+-- [AwesomeWM](http://alin.mechenici.com/dotfiles#awesomewm)
+
+-- [i3WM](http://alin.mechenici.com/dotfiles#i3wm)
+
+-- [Emacs](http://alin.mechenici.com/dotfiles#emacs)
+
+-- [Mutt](http://alin.mechenici.com/dotfiles#mutt)
+
+-- [Zsh](http://alin.mechenici.com/dotfiles#Zsh)
 
 My MacOS Cheatsheet
 
@@ -56,7 +60,6 @@ Programs (external) Cheatsheet
 - [Miscellaneous](#miscellaneous)
 - [Browsers](#browsers)
 
-
 Keyboard Shortcuts
 
 - [Keyboard description](#keyboard-description)
@@ -64,8 +67,8 @@ Keyboard Shortcuts
 
 WebApps Shortcuts
 
-- [Gmail](#gmail)
-- [RemembertheMilk](#rememberthemilk)
+- [Gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en)
+- [RemembertheMilk](https://www.rememberthemilk.com/help/?ctx=basics.basics.keyboard)
 
 Apps Shortcuts
 
