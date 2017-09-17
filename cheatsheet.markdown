@@ -14,8 +14,8 @@ I encourange you to use the table of contents and Ctrl + f to find more easily.
 # Table of Contents
 
 My Linux Cheatsheet
-- [My Linux Checklist](#my-linux-checklist)
-- [Applications installed](#applications-installed)
+
+- [Applications installed](#applications)
 
 My [dotfiles](http://alin.mechenici.com/dotfiles)
 
@@ -24,7 +24,6 @@ My [dotfiles](http://alin.mechenici.com/dotfiles)
 - [Emacs](http://alin.mechenici.com/dotfiles#emacs)
 - [Mutt](http://alin.mechenici.com/dotfiles#mutt)
 - [Zsh](http://alin.mechenici.com/dotfiles#Zsh)
-- [bin scripts](http://alin.mechenici.com/dotfiles#bin-scripts)
 
 My MacOS Cheatsheet
 
@@ -78,28 +77,6 @@ Apps Shortcuts
 
 ===============================================================
 
-# My Linux Cheatsheet
-
-
-#### search
-
-    apt-cache search
-
-#### SSH
-
-    sysv-rc-conf
-
-    /etc/init.d/ssh start
-
-    /etc/init.d/sshd_config start/stop
-
-### Mounded
-
-    lsbsk - what is mounted
-
-    dmesg -c = clear
-
---------------------------------------------
 
 # Programming Cheatsheet
 
