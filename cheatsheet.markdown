@@ -62,8 +62,8 @@ Programs (external) Cheatsheet
 
 Keyboard Shortcuts
 
-- [Keyboard description](#keyboard-description)
-- [Keyboard shortcuts automation](#keyboard-shortcuts-automation)
+- [Keyboard description](http://alin.mechenici.com/shortcuts#description)
+- [Keyboard shortcuts automation](http://alin.mechenici.com/shortcuts#automation)
 
 WebApps Shortcuts
 
@@ -72,8 +72,8 @@ WebApps Shortcuts
 
 Apps Shortcuts
 
-- [Emacs shortcuts](http://alin.mechenici.com/dotfiles#emacs-shortcuts)
-- [Mutt shortcuts](http://alin.mechenici.com/dotfiles#mutt-shortcuts)
+- [Emacs shortcuts](http://alin.mechenici.com/shortcuts#emacs)
+- [Mutt shortcuts](http://alin.mechenici.com/shortcuts#mutt)
 - [VYM shortcuts](http://alin.mechenici.com/shortcuts#vym-shortcuts)
 - [Firefox shortcuts](http://alin.mechenici.com/shortcuts#firefox-shortcuts)
 - [Remember the Milk shortcuts](http://alin.mechenici.com/shortcuts#remember-the-milk-shortcuts)
@@ -98,12 +98,7 @@ Apps Shortcuts
 
 ## Programming Languages
 
-- [Ada-cheat-sheet](http://www.digilife.be/quickreferences/QRC/Ada%20Reference%20Card.pdf)
-- [assembly-cheat-sheet](http://www.jegerlehner.ch/intel/)
 - [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
-- [c-ansi-cheat-sheet](http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
-- [c#-cheat-sheet ](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
-- [cpp-cheat-sheet](https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](https://clojure.org/cheatsheet)
 - [clojurescript-cheat-sheet](http://cljs.info/cheatsheet/)
 - [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
@@ -116,8 +111,6 @@ Apps Shortcuts
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
     - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
-- [java-cheat-sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
-    - [java8-cheat-sheet](https://github.com/BafS/Java8-CheatSheet)
 - [javascript-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/javascript/)
     - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
@@ -125,26 +118,15 @@ Apps Shortcuts
     - [npm-vs-yarn-cheat-sheet](https://github.com/areai51/yarn-cheatsheet)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
-- [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-- [ocaml-cheat-sheet](http://ocaml.org/docs/cheat_sheets.html)
 - [python-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/python/)
     - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     - [Python Cheat Sheet](https://docs.google.com/file/d/0B9VT_L2CDnKvODYyNTc5NjktYmMyOC00NDFkLTliNTctMzQzMTAzYjUyYmYy/view?pli=1)
     - [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
     - [python feature](https://github.com/PythonCharmers/python-future)
     - [Python Basics For Data Science Cheat Sheet](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
+    - [Awesome Python](https://awesome-python.com/)
 - [php-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/php/)
     - [PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
-- [perlcheat](http://perldoc.perl.org/perlcheat.html)
-- [r-cheat-sheet](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
-    - [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-- [racket-cheat-sheet](http://docs.racket-lang.org/guide/)
-- [ragel-cheat-sheet](https://github.com/calio/ragel-cheat-sheet)
-- [rebol-cheat-sheet](http://rebol.desajn.net/cheatsheet.html)
-- [ruby-cheat-sheet](https://github.com/brennovich/cheat-ruby-sheets)
-    - [A collection of Ruby Net::HTTP examples](https://github.com/augustl/net-http-cheat-sheet)
-- [rust-cheat-sheet](https://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
-- [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
 - [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
     - [bash cheat sheet](https://learncodethehardway.org/unix/)
@@ -186,17 +168,11 @@ Apps Shortcuts
 
 ## Back-End Development
 
-- [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
-- [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
-- [ror](http://www.cheatography.com/davechild/cheat-sheets/ruby-on-rails/)
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3), [node api](https://nodejs.org/api/path.html)
-
 - [ExpressJS API docs](http://expressjs.com/en/api.html)
-
 - [django](http://awesome-django.com)
 - [django-cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
-- [syscall-cheatsheet](http://syscalls.kernelgrok.com/)
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
@@ -206,7 +182,6 @@ Apps Shortcuts
 - [CouchDB Cheatsheet](https://wiki.apache.org/couchdb/API_Cheatsheet)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/mysql/)
-- [Oracle_Programming](https://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
 - [postgresql](https://dzone.com/refcardz/essential-postgresql)
 - [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 - [SQL](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)
@@ -221,9 +196,9 @@ Apps Shortcuts
 - [rest-foundations-restful](https://dzone.com/refcardz/rest-foundations-restful)
 
 ## Editors
-
-- [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
-    - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
+- [Emacs](http://alin.mechenici.com/shortcuts#emacs)
+  - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+  - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
@@ -283,7 +258,6 @@ Apps Shortcuts
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 
 
-## Browsers
 
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&redirectslug=Keyboard+shortcuts)
