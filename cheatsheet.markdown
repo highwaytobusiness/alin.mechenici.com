@@ -190,7 +190,7 @@ Apps Shortcuts
 - [postgresql](https://dzone.com/refcardz/essential-postgresql)
 - [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 - [SQL](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)
-- Neo4j [manual for linux](https://neo4j.com/docs/operations-manual/current/installation/linux/), [linux install](https://neo4j.com/download-thanks/?edition=community&release=3.2.4&flavour=unix&_ga=2.260749903.35770474.1505387257-1130915347.1505387257), [stackoverflow tag](https://stackoverflow.com/questions/tagged/neo4j), [localhost](http://localhost:7474/browser/)
+- Neo4j: [manual for linux](https://neo4j.com/docs/operations-manual/current/installation/linux/), [linux install](https://neo4j.com/download-thanks/?edition=community&release=3.2.4&flavour=unix&_ga=2.260749903.35770474.1505387257-1130915347.1505387257), [stackoverflow tag](https://stackoverflow.com/questions/tagged/neo4j), [localhost](http://localhost:7474/browser/)
 
 ## Theory
 
@@ -202,22 +202,41 @@ Apps Shortcuts
 
 ## Editors
 
-- [Emacs](http://alin.mechenici.com/shortcuts#emacs)
+- [My Emacs configuration](http://alin.mechenici.com/shortcuts#emacs)
   - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
   - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
-  - **Emacs blogs**
-  -- [ErgoEmacs](http://ergoemacs.org/emacs/emacs.html)
-  -- [What the emacs.d](http://whattheemacsd.com/)
-  -- [Emacs is sexxy](http://emacs.sexy/)
-  -- [Modern Emacs](http://www.modernemacs.com/categories/emacs/)
-  -- [Emacs Life](http://emacslife.com/)
-  -- [Emacs rocks](http://emacsrocks.com/)
-  -- [Pragmatic Emacs](http://pragmaticemacs.com/)
-  -- [OR Emacs](http://oremacs.com/)
-  -- [Emacs blog](http://emacsblog.org/)
-  -- [Emacs redux](http://emacsredux.com/)
-  -- [Emacs Tragic](https://emacstragic.net/category/emacs/)
-  
+
+// ** Emacs Repositories **:
+
+- [Learn Emacs in one year guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
+- [Purcell/emacs.d](https://github.com/purcell/emacs.d)
+- [Bbatsov/Prelude](https://github.com/bbatsov/prelude)
+- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+
+// **Emacs blogs**:
+
+-- [ErgoEmacs](http://ergoemacs.org/emacs/emacs.html)
+
+-- [What the emacs.d](http://whattheemacsd.com/)
+
+-- [Emacs is sexxy](http://emacs.sexy/)
+
+-- [Modern Emacs](http://www.modernemacs.com/categories/emacs/)
+
+-- [Emacs Life](http://emacslife.com/)
+
+-- [Emacs rocks](http://emacsrocks.com/)
+
+-- [Pragmatic Emacs](http://pragmaticemacs.com/)
+
+-- [OR Emacs](http://oremacs.com/)
+
+-- [Emacs blog](http://emacsblog.org/)
+
+-- [Emacs redux](http://emacsredux.com/)
+
+-- [Emacs Tragic](https://emacstragic.net/category/emacs/)
+
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
