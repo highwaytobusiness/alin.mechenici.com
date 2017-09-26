@@ -64,23 +64,6 @@ FullStack
 
 - [Fullstack JS](#fullstackJS)
 
-Keyboard Shortcuts
-
-- [Keyboard description](http://alin.mechenici.com/shortcuts#description)
-- [Keyboard shortcuts automation](http://alin.mechenici.com/shortcuts#automation)
-
-WebApps Shortcuts
-
-- [Gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en)
-- [RemembertheMilk](https://www.rememberthemilk.com/help/?ctx=basics.basics.keyboard)
-
-Apps Shortcuts
-
-- [Emacs shortcuts](http://alin.mechenici.com/shortcuts#emacs)
-- [Mutt shortcuts](http://alin.mechenici.com/shortcuts#mutt)
-- [VYM shortcuts](http://alin.mechenici.com/shortcuts#vym-shortcuts)
-- [Firefox shortcuts](http://alin.mechenici.com/shortcuts#firefox-shortcuts)
-- [Remember the Milk shortcuts](http://alin.mechenici.com/shortcuts#remember-the-milk-shortcuts)
 
 ===============================================================
 
@@ -230,11 +213,10 @@ Apps Shortcuts
    - [Emacs redux](http://emacsredux.com/)
    - [Emacs Tragic](https://emacstragic.net/category/emacs/)
 
-// ** Emacs forums**
+// **Emacs forums**
 
    - [Emacs Stackexchange](https://emacs.stackexchange.com/)
    - [Emacs AskUbuntu](https://askubuntu.com/questions/tagged/emacs)
-   
 
 ## Tools
 
@@ -297,9 +279,29 @@ Fullstack JS
 - [Coding for entrepreneurs](https://github.com/codingforentrepreneurs)
 
 # Shortcuts
+
+Keyboard Shortcuts
+
+- [Keyboard description](http://alin.mechenici.com/shortcuts#description)
+- [Keyboard shortcuts automation](http://alin.mechenici.com/shortcuts#automation)
+
+WebApps Shortcuts
+
+- [Gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en)
+- [RemembertheMilk](https://www.rememberthemilk.com/help/?ctx=basics.basics.keyboard)
+
+Apps Shortcuts
+
+- [Emacs shortcuts](http://alin.mechenici.com/shortcuts#emacs)
+- [Mutt shortcuts](http://alin.mechenici.com/shortcuts#mutt)
+- [VYM shortcuts](http://alin.mechenici.com/shortcuts#vym-shortcuts)
+- [Firefox shortcuts](http://alin.mechenici.com/shortcuts#firefox-shortcuts)
+- [Remember the Milk shortcuts](http://alin.mechenici.com/shortcuts#remember-the-milk-shortcuts)
+
 **Build Muscle Memory**
+
 - [Emacs shortcuts](https://www.shortcutfoo.com/app/dojos/emacs/cheatsheet)
-- Twitter shortcuts](https://www.shortcutfoo.com/app/dojos/twitter/cheatsheet)
+- [Twitter shortcuts](https://www.shortcutfoo.com/app/dojos/twitter/cheatsheet)
 - [Chrome Dev Tools shortcuts](https://www.shortcutfoo.com/app/dojos/chrome-dev-tools-win/cheatsheet)
 - [Excel shortcuts](https://www.shortcutfoo.com/app/dojos/excel-win/cheatsheet)
 - [Remember the Milk shortcuts](https://www.shortcutfoo.com/app/dojos/remember-the-milk/cheatsheet)
@@ -318,9 +320,40 @@ Fullstack JS
 - [Regex](https://www.shortcutfoo.com/app/dojos/regex/cheatsheet)
 - [Trello](https://www.shortcutfoo.com/app/dojos/trello/cheatsheet)
 - [Asana](https://www.shortcutfoo.com/app/dojos/asana-win)
-
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&redirectslug=Keyboard+shortcuts)
+
+# Free Online manuals
+
+General 
+
+- [Google Playstore](https://play.google.com/store/books)
+- [100 legal sites to download literature](http://iheartintelligence.com/2014/08/31/free-books-100-legal-sites-download-literature/)
+- [800 free ebooks for iPad and other devices](http://www.openculture.com/free_ebooks)
+
+Python books
+
+- [Free Python books](http://www.onlineprogrammingbooks.com/python/)
+- [Think Python](http://greenteapress.com/thinkpython/html/index.html)
+- [Dive into Python3](http://docs.firefox-dev.tools/)
+- [Introduction to Python3](https://krother.gitbooks.io/python-3-basics-tutorial/content/en/)
+- [Automate boring stuff with Python](https://automatetheboringstuff.com/chapter0/)
+
+- [Git for Everyone](https://anotheruiguy.gitbooks.io/gitforeveryone/)
+- [Accesing the Network from Outside the Server](https://www.safaribooksonline.com/library/view/using-mac-os/9781449334611/ch01s07.html)
+
+Online Docs
+
+- [Firfox Developer Tools](http://docs.firefox-dev.tools/)
+- [OmniGraffle 3 Reference Manual for iOS](https://support.omnigroup.com/documentation/omnigraffle/ios/3.0/en/keyboard-shortcuts/)
+- [Qubes OS R2 Tutorial](https://www.qubes-os.org/attachment/wiki/slides/LinuxCon_2014_Qubes_Tutorial.pdf)
+- [CLI-Ledger](http://ledger-cli.org/3.0/doc/ledger3.pdf)
+- [Kupfer](https://kupferlauncher.github.io/help/en/generalusage.html)
+
+# Free Courses
+
+- [The Open University](http://www.open.ac.uk/courses)
+- [Coursera](https://www.coursera.org/)
 
 ======================================================
 
