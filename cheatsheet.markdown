@@ -202,11 +202,14 @@ Apps Shortcuts
 
 ## Editors
 
+- [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
+- [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 - [My Emacs configuration](http://alin.mechenici.com/shortcuts#emacs)
   - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
   - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 
-// ** Emacs Repositories **:
+// **Emacs Repositories**:
 
 - [Learn Emacs in one year guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 - [Purcell/emacs.d](https://github.com/purcell/emacs.d)
@@ -215,31 +218,23 @@ Apps Shortcuts
 
 // **Emacs blogs**:
 
--- [ErgoEmacs](http://ergoemacs.org/emacs/emacs.html)
+   - [ErgoEmacs](http://ergoemacs.org/emacs/emacs.html)
+   - [What the emacs.d](http://whattheemacsd.com/)
+   - [Emacs is sexxy](http://emacs.sexy/)
+   - [Modern Emacs](http://www.modernemacs.com/categories/emacs/)
+   - [Emacs Life](http://emacslife.com/)
+   - [Emacs rocks](http://emacsrocks.com/)
+   - [Pragmatic Emacs](http://pragmaticemacs.com/)
+   - [OR Emacs](http://oremacs.com/)
+   - [Emacs blog](http://emacsblog.org/)
+   - [Emacs redux](http://emacsredux.com/)
+   - [Emacs Tragic](https://emacstragic.net/category/emacs/)
 
--- [What the emacs.d](http://whattheemacsd.com/)
+// ** Emacs forums**
 
--- [Emacs is sexxy](http://emacs.sexy/)
-
--- [Modern Emacs](http://www.modernemacs.com/categories/emacs/)
-
--- [Emacs Life](http://emacslife.com/)
-
--- [Emacs rocks](http://emacsrocks.com/)
-
--- [Pragmatic Emacs](http://pragmaticemacs.com/)
-
--- [OR Emacs](http://oremacs.com/)
-
--- [Emacs blog](http://emacsblog.org/)
-
--- [Emacs redux](http://emacsredux.com/)
-
--- [Emacs Tragic](https://emacstragic.net/category/emacs/)
-
-- [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
-- [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
+   - [Emacs Stackexchange](https://emacs.stackexchange.com/)
+   - [Emacs AskUbuntu](https://askubuntu.com/questions/tagged/emacs)
+   
 
 ## Tools
 
@@ -300,8 +295,29 @@ Fullstack JS
 
 - [Fullstack webdev path](https://github.com/shovanch/fullstack-webdev-path)
 - [Coding for entrepreneurs](https://github.com/codingforentrepreneurs)
-- []()
 
+# Shortcuts
+**Build Muscle Memory**
+- [Emacs shortcuts](https://www.shortcutfoo.com/app/dojos/emacs/cheatsheet)
+- Twitter shortcuts](https://www.shortcutfoo.com/app/dojos/twitter/cheatsheet)
+- [Chrome Dev Tools shortcuts](https://www.shortcutfoo.com/app/dojos/chrome-dev-tools-win/cheatsheet)
+- [Excel shortcuts](https://www.shortcutfoo.com/app/dojos/excel-win/cheatsheet)
+- [Remember the Milk shortcuts](https://www.shortcutfoo.com/app/dojos/remember-the-milk/cheatsheet)
+- [Github shortcuts](https://www.shortcutfoo.com/app/dojos/github/cheatsheet)
+- [Slack shortcuts](https://www.shortcutfoo.com/app/dojos/slack-win/cheatsheet)
+- [Command line](https://www.shortcutfoo.com/app/dojos/command-line/cheatsheet)
+- [Git](https://www.shortcutfoo.com/app/dojos/git/cheatsheet)
+- [Python strings](https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet)
+- [Python regex](https://www.shortcutfoo.com/app/dojos/python-regex/cheatsheet)
+- [Javascript arrays](https://www.shortcutfoo.com/app/dojos/javascript-arrays/cheatsheet)
+- [Javascript strings](https://www.shortcutfoo.com/app/dojos/javascript-strings/cheatsheet)
+- [Photoshop shortcuts](https://www.shortcutfoo.com/app/dojos/photoshop-win/cheatsheet)
+- [Network Ports](https://www.shortcutfoo.com/app/dojos/network-ports/cheatsheet)
+- [Gmail shortcuts](https://www.shortcutfoo.com/app/dojos/gmail/cheatsheet)
+- [Jquery](https://www.shortcutfoo.com/app/dojos/jquery)
+- [Regex](https://www.shortcutfoo.com/app/dojos/regex/cheatsheet)
+- [Trello](https://www.shortcutfoo.com/app/dojos/trello/cheatsheet)
+- [Asana](https://www.shortcutfoo.com/app/dojos/asana-win)
 
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&redirectslug=Keyboard+shortcuts)
