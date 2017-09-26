@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/alinmechenici
+———————————————————————
+
+I hereby claim:
+
+  * I am an admin of http://alin.mechenici.com
+  * I am alinmechenici (https://keybase.io/alinmechenici) on keybase.
+  * I have a public key ASAaf8G9lLtwzwkBvxIAhCrkrbhnhuBVlLAVyrTuc0UqFgo
+
+To do so, I am signing this object:
+
+{
+  “body”: {
+    “key”: {
+      “eldest_kid”: “01201a7fc1bd94bb70cf0901bf1200842ae4adb86786e05594b015cab4ee73452a160a”,
+      “host”: “keybase.io”,
+      “kid”: “01201a7fc1bd94bb70cf0901bf1200842ae4adb86786e05594b015cab4ee73452a160a”,
+      “uid”: “debb08d5849ae4698ba967def0602e19”,
+      “username”: “alinmechenici”
+    },
+    “merkle_root”: {
+      “ctime”: 1505821224,
+      “hash”: “e9240cca4b5b52a83379a0cc0704e84f057594ee54f589187730e2cf08a3afc5e9f1705531b49b1c3596253cdaa6ea5a0f40d206b2d988ff90afccfc6afff3bf”,
+      “hash_meta”: “811da3babb2b0949a1f4a16277a0f078aedf3800747ea18fcec0f06b8293ac48”,
+      “seqno”: 1411632
+    },
+    “service”: {
+      “hostname”: “alin.mechenici.com”,
+      “protocol”: “http:”
+    },
+    “type”: “web_service_binding”,
+    “version”: 1
+  },
+  “client”: {
+    “name”: “keybase.io go client”,
+    “version”: “1.0.30”
+  },
+  “ctime”: 1505821248,
+  “expire_in”: 504576000,
+  “prev”: “8784404f601030db5d3e736fc9429e40a3ae6969dcb33b4b9a8111bd49552515”,
+  “seqno”: 8,
+  “tag”: “signature”
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGn/BvZS7cM8JAb8SAIQq5K24Z4bgVZSwFcq07nNFKhYKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWE3ZmMxYmQ5NGJiNzBjZjA5MDFiZjEyMDA4NDJhZTRhZGI4Njc4NmUwNTU5NGIwMTVjYWI0ZWU3MzQ1MmExNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWE3ZmMxYmQ5NGJiNzBjZjA5MDFiZjEyMDA4NDJhZTRhZGI4Njc4NmUwNTU5NGIwMTVjYWI0ZWU3MzQ1MmExNjBhIiwidWlkIjoiZGViYjA4ZDU4NDlhZTQ2OThiYTk2N2RlZjA2MDJlMTkiLCJ1c2VybmFtZSI6ImFsaW5tZWNoZW5pY2kifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDU4MjEyMjQsImhhc2giOiJlOTI0MGNjYTRiNWI1MmE4MzM3OWEwY2MwNzA0ZTg0ZjA1NzU5NGVlNTRmNTg5MTg3NzMwZTJjZjA4YTNhZmM1ZTlmMTcwNTUzMWI0OWIxYzM1OTYyNTNjZGFhNmVhNWEwZjQwZDIwNmIyZDk4OGZmOTBhZmNjZmM2YWZmZjNiZiIsImhhc2hfbWV0YSI6IjgxMWRhM2JhYmIyYjA5NDlhMWY0YTE2Mjc3YTBmMDc4YWVkZjM4MDA3NDdlYTE4ZmNlYzBmMDZiODI5M2FjNDgiLCJzZXFubyI6MTQxMTYzMn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhbGluLm1lY2hlbmljaS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1ODIxMjQ4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijg3ODQ0MDRmNjAxMDMwZGI1ZDNlNzM2ZmM5NDI5ZTQwYTNhZTY5NjlkY2IzM2I0YjlhODExMWJkNDk1NTI1MTUiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAENSygr3ORJmmmOBI7I/wSIvF4f5wxAofgGvVLwgsZE+kAEbRDCblDOpFMeLgOdd/owXRWKNlDcPsy3eqBKdEGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgtSoOmfGlv2MCbhnGsrugN/SGRaAcH+pCINJ9Ajq11MWjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alinmechenici
+
+==================================================================
