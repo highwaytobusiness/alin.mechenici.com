@@ -101,7 +101,7 @@ Open telegram
 
 
 
-## Mutt
+# Mutt
 
 Mutt settings for icloud email ([*](https://forums.freebsd.org/threads/44264/))
 
@@ -180,6 +180,7 @@ A-/ auto-complete cycle
 ..............................................
 
 IDEAS to implement:
+
 - emacs + google calendar:
 
 emacs files:

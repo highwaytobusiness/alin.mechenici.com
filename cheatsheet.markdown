@@ -7,7 +7,7 @@ permalink: /cheatsheet/
 
 About this page:
 
-This one page cheatsheet is a (more) convenient way to store potential blog posts, interesting resources and technical experiences with the world. Before starting this I used different other platforms like [de.icio.us](https://del.icio.us/alin.mechenici), [twitter](https://twitter.com/alinmechenici), etc.
+This one page cheatsheet is a (more) convenient way to store potential blog posts, interesting resources and technical experiences with the world. Before starting this I used different other platforms like [del.icio.us](https://del.icio.us/alin.mechenici), [twitter](https://twitter.com/alinmechenici), etc.
 
 I encourange you to use the table of contents and Ctrl + f to find more easily.
 
@@ -59,6 +59,10 @@ Programs (external) Cheatsheet
 - [Project Management](#project-management)
 - [Miscellaneous](#miscellaneous)
 - [Browsers](#browsers)
+
+FullStack
+
+- [Fullstack JS](#fullstackJS)
 
 Keyboard Shortcuts
 
@@ -175,6 +179,7 @@ Apps Shortcuts
 - [django-cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 
 ## Big Data
+
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ## Databases
@@ -196,9 +201,23 @@ Apps Shortcuts
 - [rest-foundations-restful](https://dzone.com/refcardz/rest-foundations-restful)
 
 ## Editors
+
 - [Emacs](http://alin.mechenici.com/shortcuts#emacs)
   - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
   - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
+  - **Emacs blogs**
+  -- [ErgoEmacs](http://ergoemacs.org/emacs/emacs.html)
+  -- [What the emacs.d](http://whattheemacsd.com/)
+  -- [Emacs is sexxy](http://emacs.sexy/)
+  -- [Modern Emacs](http://www.modernemacs.com/categories/emacs/)
+  -- [Emacs Life](http://emacslife.com/)
+  -- [Emacs rocks](http://emacsrocks.com/)
+  -- [Pragmatic Emacs](http://pragmaticemacs.com/)
+  -- [OR Emacs](http://oremacs.com/)
+  -- [Emacs blog](http://emacsblog.org/)
+  -- [Emacs redux](http://emacsredux.com/)
+  -- [Emacs Tragic](https://emacstragic.net/category/emacs/)
+  
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
@@ -257,6 +276,12 @@ Apps Shortcuts
 - [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 
+
+Fullstack JS
+
+- [Fullstack webdev path](https://github.com/shovanch/fullstack-webdev-path)
+- [Coding for entrepreneurs](https://github.com/codingforentrepreneurs)
+- []()
 
 
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
