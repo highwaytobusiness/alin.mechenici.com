@@ -70,6 +70,9 @@ FullStack
 
 # Programming Cheatsheet
 
+I use [Dash](https://kapeli.com/dash) on my mac and iPad [Dash iOS open-source)](https://github.com/Kapeli/Dash-iOS) and [Zeal Docs (open-source)](https://zealdocs.org/) on Linux.
+
+
 ## Platforms
 
 - [Android-Cheatsheet-For-Graphic-Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
@@ -131,6 +134,7 @@ FullStack
 
 ## Front-End Development
 
+- [HTML5-canvas](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 - [angular2](https://angular.io/cheatsheet)
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
@@ -155,6 +159,7 @@ FullStack
 
 ## Back-End Development
 
+- [Linux CLI](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3), [node api](https://nodejs.org/api/path.html)
 - [ExpressJS API docs](http://expressjs.com/en/api.html)
@@ -256,6 +261,9 @@ FullStack
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
+Ethical Hacking
+- [Ethical Hacking Blogs](http://ethicalhackingblogs.blogspot.se/)
+
 ## Project Management
 
 - [Agile Cheatsheet](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
@@ -325,7 +333,7 @@ Apps Shortcuts
 
 # Free Online manuals
 
-General 
+General
 
 - [Google Playstore](https://play.google.com/store/books)
 - [100 legal sites to download literature](http://iheartintelligence.com/2014/08/31/free-books-100-legal-sites-download-literature/)
@@ -349,11 +357,25 @@ Online Docs
 - [Qubes OS R2 Tutorial](https://www.qubes-os.org/attachment/wiki/slides/LinuxCon_2014_Qubes_Tutorial.pdf)
 - [CLI-Ledger](http://ledger-cli.org/3.0/doc/ledger3.pdf)
 - [Kupfer](https://kupferlauncher.github.io/help/en/generalusage.html)
+- [System Designer](https://system-runtime.readme.io/docs/quick-start)
+- Get Noodl prototyping [Reference Documentation](http://docs.getnoodl.com/reference.html) & [Guides](http://docs.getnoodl.com/guides.html)
+- [Shiftr Docs](https://docs.shiftr.io/)
 
 # Free Courses
 
 - [The Open University](http://www.open.ac.uk/courses)
 - [Coursera](https://www.coursera.org/)
+
+# Tools
+
+Browsers
+
+- [Blisk](https://blisk.io/) *soon Linux
+- [Brave](https://www.brave.com/)
+- [Tor](https://www.torproject.org/)
+- [Chromium](http://www.chromium.org/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 
 ======================================================
 
