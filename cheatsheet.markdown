@@ -330,6 +330,7 @@ Apps Shortcuts
 - [Asana](https://www.shortcutfoo.com/app/dojos/asana-win)
 - [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&redirectslug=Keyboard+shortcuts)
+- [Affinity photo and designer shortcuts](https://affinity.serif.com/blog/new-keyboard-shortcut-cheat-sheets/)
 
 # Free Online manuals
 
@@ -352,7 +353,10 @@ Python books
 
 Online Docs
 
-- [Firfox Developer Tools](http://docs.firefox-dev.tools/)
+- [ORG-Mode](http://orgmode.org/org.html) / [pdf version](http://orgmode.org/org.pdf)
+- [Emacs manual](https://www.gnu.org/software/emacs/manual/)
+- [ORG-Jelyll](http://orgmode.org/worg/org-tutorials/org-jekyll.html)
+- [Firefox developer](https://www.mozilla.org/en-US/firefox/developer/), [Docs](http://docs.firefox-dev.tools/)
 - [OmniGraffle 3 Reference Manual for iOS](https://support.omnigroup.com/documentation/omnigraffle/ios/3.0/en/keyboard-shortcuts/)
 - [Qubes OS R2 Tutorial](https://www.qubes-os.org/attachment/wiki/slides/LinuxCon_2014_Qubes_Tutorial.pdf)
 - [CLI-Ledger](http://ledger-cli.org/3.0/doc/ledger3.pdf)
@@ -360,21 +364,20 @@ Online Docs
 - [System Designer](https://system-runtime.readme.io/docs/quick-start)
 - Get Noodl prototyping [Reference Documentation](http://docs.getnoodl.com/reference.html) & [Guides](http://docs.getnoodl.com/guides.html)
 - [Shiftr Docs](https://docs.shiftr.io/)
+- [Neo4j](http://neo4j.com/docs/operations-manual/current/)
+- [GetNikola](https://getnikola.com/getting-started.html)
+
+Emacs packages docs
+
+- [auto-complete.el](https://github.com/auto-complete/auto-complete) / [docs](https://github.com/auto-complete/auto-complete/blob/master/doc/manual.md)
+- [ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook/)
+- [Elpy](https://elpy.readthedocs.io/en/latest/index.html)
 
 # Free Courses
 
 - [The Open University](http://www.open.ac.uk/courses)
 - [Coursera](https://www.coursera.org/)
 
-# Tools
-
-Browsers
-
-- [Blisk](https://blisk.io/) *soon Linux
-- [Brave](https://www.brave.com/)
-- [Tor](https://www.torproject.org/)
-- [Chromium](http://www.chromium.org/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 
 ======================================================
