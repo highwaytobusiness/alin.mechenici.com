@@ -10,53 +10,10 @@ Prerequisites needs to be installed:
 
 You can use the bulk install:
 
-sudo apt install \
+	sudo apt install \
 
-     bc \
-     apt-transport-https \
-     ca-certificates \
-     curl \
-     gnupg2 \
-     software-properties-common \
-     zsh \
-     wget \
-     python3 \
-     tar \
-     git \
-
-Applications installed from the terminal.
-
-You can use the bulk install:
-
-    su RET pswd
-
-apt install
-
-    xev \
-    lxappearance \
-    i3lock \
-    xclip \
-    zeal \
-    chromium \
-    firefox \
-    planner \
-    terminator \
-    gnome-alsamixer \
-    mpv \
-    dropbox \
-    docker \
-    dia \
-    vym \
-    gnome-calendar \
-    gnome-commander \
-    gnome-documents \
-    gtranslator \
-    ipython \
-    keepass2 \
-    inkscape \
-    geeqie \
-    calibre \
-
+	gdisk btrfs-tools git apache2 python-requests libapache2-mod-php python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl bc apt-transport-https ca-certificates curl gnupg2 software-properties-common zsh wget python3 tar i3lock curl build-essentials emacs xterm awesome xinit xserver-xorg alsa-utils sysv-rc-conf audacity ffmpeg mosh wicd-curses vorvis-tools libncurses-dev open-ssh-server mutt xev lxappearance i3lock xclip zeal chromium firefox-esr planner terminator gnome-alsamixer mpv dropbox docker dia vym gnome-calendar gnome-commander gnome-documents gtranslator ipython keepass2 inkscape geeqie calibre unrar
+	
 Use this command to install Node.js and npm
 
     curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
