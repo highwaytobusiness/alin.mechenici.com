@@ -61,6 +61,130 @@ Open Applications in ONLY this specific tag:
 
 9. mpv, etc
 
+** Background awesome wm:
+	    /usr/share/awesome/themes/default/background.png # Change the background.png with own file!
+ 	    /Pictures/wallpaper/background.png
+
+
+** Tag tables:
+
+   
+    -- Each screen has its own tag table.
+    awful.tag({ "1: start", "2: terms", "3: internet", "4: idea", "5: docs", "6: office", "7: irc", "8: root", "9: other" }, s, awful.layout.layouts[1])
+
+
+** Disable that iritating right-click menu popup
+
+Comment this line:
+	--    awful.button({ }, 3, function () mymainmenu:toggle() end),
+
+
+** Open Apps using keyboard combinations (Ctrl + Super + "x")
+
+
+	globalkeys = awful.util.table.join(globalkeys,
+
+-- this is to be able to spawn emacs using key combination  Control + Super + E
+	
+	awful.key({ modkey, "Control" }, "e",
+	function ()
+	awful.spawn("emacs")
+	end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is to have a dark blue screen lock when the user types  Control + Super + L
+
+	awful.key({ modkey, "Control" }, "a", function () awful.spawn("i3lock -u -c 000040") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is start VYM when the user types  Control + Super + Y
+	
+	awful.key({ modkey, "Control" }, "y", function () awful.spawn("vym") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is start Planner when the user types  Control + Super + P
+	
+	awful.key({ modkey, "Control" }, "p", function () awful.spawn("planner") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is start Mutt when the user types  Control + Super + M
+	
+	awful.key({ modkey, "Control" }, "m", function () awful.spawn("mutt") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is start LibreOffice when the user types  Control + Super + L
+	
+	awful.key({ modkey, "Control" }, "l", function () awful.spawn("libreoffice") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- this is start LibreOffice when the user types  Control + Super + O
+	
+	awful.key({ modkey, "Control" }, "o", function () awful.spawn("postman") end,
+	{description = "open a terminal", group = "launcher"}),
+
+-- open a incognito chromium webbrowser
+	
+	awful.key({ modkey, "Control" }, "w", function () awful.spawn("chromium --incognito") end,
+	{description = "open a terminal", group = "launcher"})
+
+	)
+
+-----------------------------------------------
+
+** Change the background of the terminal 
+
+-- black background with white text
+
+	terminal = "x-terminal-emulator -bg black -fg white"
+
+
+** Run apps at start
+-- autorun
+
+	if autorun then
+   	for app = 1, #autorunApps do
+   	awful.util.spawn(autorunApps[app])
+   	end
+ 	end
+
+-- Autorun programs
+	
+	autorun = true
+	autorunApps =
+	{
+   	"terminator",
+   	"mutt",
+   	"emacs",
+   	"telegram",
+   	"zeal",
+	}
+
+------------------------------------------------
+
+** Remove layouts 
+
+-- Table of layouts to cover with awful.layout.inc, order matters.
+
+	awful.layout.layouts = {
+    		awful.layout.suit.floating,
+		    awful.layout.suit.tile,
+		    awful.layout.suit.tile.left,
+		    awful.layout.suit.tile.bottom,
+		    awful.layout.suit.tile.top,
+		--    awful.layout.suit.fair,
+		--    awful.layout.suit.fair.horizontal,
+		--    awful.layout.suit.spiral,
+		--    awful.layout.suit.spiral.dwindle,
+    		awful.layout.suit.max,
+		--    awful.layout.suit.max.fullscreen,
+    		awful.layout.suit.magnifier,
+		--    awful.layout.suit.corner.nw,
+    		-- awful.layout.suit.corner.ne,
+    		-- awful.layout.suit.corner.sw,
+    		-- awful.layout.suit.corner.se,
+	}
+
+------------------------------------------------
 
 
 ## i3WM
