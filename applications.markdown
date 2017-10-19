@@ -12,8 +12,22 @@ You can use the bulk install:
 
 	sudo apt install \
 
-	gdisk btrfs-tools git apache2 python-requests libapache2-mod-php python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl bc apt-transport-https ca-certificates curl gnupg2 software-properties-common zsh wget python3 tar i3lock curl build-essentials emacs xterm awesome xinit xserver-xorg alsa-utils sysv-rc-conf audacity ffmpeg mosh wicd-curses vorvis-tools libncurses-dev open-ssh-server mutt xev lxappearance i3lock xclip zeal chromium firefox-esr planner terminator gnome-alsamixer mpv dropbox docker dia vym gnome-calendar gnome-commander gnome-documents gtranslator ipython keepass2 inkscape geeqie calibre unrar
+	gdisk btrfs-tools git apache2 python-requests libapache2-mod-php python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl bc apt-transport-https ca-certificates curl gnupg2 software-properties-common zsh wget python3 tar i3lock curl build-essentials emacs xterm awesome xinit xserver-xorg alsa-utils sysv-rc-conf audacity ffmpeg mosh wicd-curses vorvis-tools libncurses-dev open-ssh-server mutt xev lxappearance i3lock xclip zeal chromium firefox-esr planner terminator gnome-alsamixer mpv dropbox docker dia vym gnome-calendar gnome-commander gnome-documents gtranslator ipython keepass2 inkscape geeqie calibre unrar network-manager-gnome lxpannel goldendict shutter simplescreenrecorder dia freecad pdf2svg gnome-music gnome-photos amarok digikam gthumb orage p7zip-full vorbis-tools alien pylint python3-pip pylint epc jedi virtualenv 	
+
 	
+Python install:
+
+	pip3 install rainbowstream
+
+	apt-get install python-dev libjpeg-dev libfreetype6 libfreetype6-dev zlib1g-dev
+	
+	pip install rope
+	pip install jedi
+	pip install flake8
+	pip install importmagic
+
+
+
 Use this command to install Node.js and npm
 
     curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
@@ -141,4 +155,82 @@ Keybase [linux](https://keybase.io/docs/the_app/install_linux)
     mpv --playlist pl1
 
 
+
+# Docker
+
+[docker install](https://docs.docker.com/engine/installation/linux/docker-ce/debian/#install-using-the-repository)
+
+
+	install -y apt-transport-https ca-certificates wget software-properties-common
+
+	wget https://download.docker.com/linux/debian/gpg
+	su apt-key add gpg
+	echo "deb [arch=amd64] https://download.docker.com/linux/debian $(lsb_release -cs) stable" | sudo tee -a /etc/sources.list.d/docker.list
+	apt - cache policy docker-ce
+	apt-get -y install docker-ce
+
+Start:
+
+	systemctl start docker
+	systemctl stop docker
+	systemctl restart docker
+	systemctl status docker
+	systemctl enable docker
+
+/ verify installation
+
+	docker run hello-world
+
+/ allow not-root user to run docker
+
+	sudo groupadd docker
+	sudo useradd alin
+	sudo usermod -aG docker alin
+	
+	docker run hello-world
+	docker images
+	docker run -i -t dadjada /bin/bash
+	docker ps
+
+Docker with gui
+
+        curl -fsSL https://get.docker.com/ | sh
+	sudo service docker start
+	xauth list
+	sudo docker run -i -t --net=host -e DISPLAY -v /tmp/.X11-unix ubuntu bash
+
+Inside container:
+
+       $ apt-get install firefox
+       $ apt-get install xauth
+       $ xauth add ...
+
+
+# Virtualbox
+
+emacs	/etc/apt/sources.list.d/virtualbox.list
+
+	deb http://download.virtualbox.org/virtualbox/debian stretch contrib
+
+public key:
+
+	wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | apt-key add -
+
+Install:
+
+	apt update && apt install virtualbox-5.1
+
+Start:
+
+	virtualbox
+
+[Documentation](https://www.virtualbox.org/wiki/End-user_documentation)
+
 =============================================
+
+
+chromium
+chrome://extensions/configureCommands
+
+
+
